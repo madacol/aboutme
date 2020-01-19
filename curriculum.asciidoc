@@ -8,27 +8,30 @@ I'm a Venezuelan-Italian Software Developer with a degree in Mechanical Maintena
 +15 years doing *Electronic projects*, using Raspberry Pi, Arduino or PICs.
 ****
 
-== Experiences
+== Experience
 
-*Contatrib / Mi Factura Perú*  --  2019 - Current  --  _(Not yet published)_ +
-I'm co-leading a team of 5 people in building a web-based ERP using *React*, *NodeJs/Express*, *Mysql* and *Docker*.
+- *Contatrib / Mi Factura Perú*  --  2019 - Current  --  _(Not yet published)_ +
+I'm co-leading a team of 6 people in building a web-based ERP using *React*, *NodeJs/Express*, *Mysql* and *Docker*.
 
-http://www.bolivarparalelo.com/beta[Bolivar Paralelo]  --  2018 - Current  --  https://github.com/madacol/bolivarparalelo[source] +
-A hobbie project, built with *Svelte*, *Ruby/Sinatra* and *PostgreSql* (with ORM)
+- http://www.bolivarparalelo.com/beta[Bolivar Paralelo (beta)]  --  2018 - Current  --  https://github.com/madacol/bolivarparalelo[source] +
+A hobbie project that analyzes http://www.localbitcoins.com to get currency rates and calculate intermediate rates and render history graphs. Mostly oriented to Venezuelans, but anyone can choose currencies. +
+Built with *Svelte*, *Ruby/Sinatra* and *PostgreSql* (with ORM)
 
-https://www.youtube.com/watch?v=MHU5xQRTyus[Arduino controlled conveyor oven]  --  2018 - Current  --  https://github.com/madacol/ArduinoOven[source] +
-Designed, built and developed the electronic system using an *Arduino Mega* with a Touchscreen interface and PID's to control temperature and conveyor's speed. +
-A *Raspberry Pi Zero* is connected to the Arduino, which logs data from the Arduino through the Serial port, and allows me to connect remotely to flash the Arduino. +
-https://github.com/madacol/webOven[Simple web interface] that runs in the RPi, to graph history data from the logs, built with *Python/Flask*
+- https://www.youtube.com/watch?v=MHU5xQRTyus[Arduino controlled conveyor oven]  --  2018 - Current  --  https://github.com/madacol/ArduinoOven[source] +
+Designed, built and developed the electronic system using an *Arduino Mega* with a Touchscreen interface. +
+I implemented software-based-PIDs to control temperatures and conveyor's speed. +
+A *Raspberry Pi Zero* is connected to the Arduino, which logs data from Serial port, and allows me to connect remotely to flash the Arduino. +
+https://github.com/madacol/webOven[Simple web interface] that runs in the RPi, to show history graphs from the logs. +
+Built with *Python/Flask* and used *matplotlib* for graphing.
 
-http://www.mifacturaperu.com/[Mi Factura Perú]  --  2019 +
-Mantained a desktop app that help businesses make electronic invoices, built with *.NET WPF*, *PHP/Slim* and *Mysql*. +
+- http://www.mifacturaperu.com/[Mi Factura Perú]  --  2019 +
+Mantained a desktop app that help businesses make electronic invoices, built with *VB.NET/WPF*, *PHP/Slim* and *Mysql*. +
 And a simple website built with *PHP/Laravel*.
 
-https://www.youtube.com/watch?v=wu8dKf8xgoI[Helical Milling]  --  ~ 2013  --  https://github.com/madacol/helical-milling[source] +
+- https://www.youtube.com/watch?v=wu8dKf8xgoI[Helical Milling]  --  ~ 2013  --  https://github.com/madacol/helical-milling[source] +
 Designed, built and developed the electronic system using a *PIC16F877*
 
-https://www.youtube.com/watch?v=joTXaflXwJw[CNC router]  --  ~ 2009 - 2012 +
+- https://www.youtube.com/watch?v=joTXaflXwJw[CNC router]  --  ~ 2009 - 2012 +
 Built and adapted the electronic system
 
 == Contact
