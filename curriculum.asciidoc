@@ -1,5 +1,5 @@
 = Marco D'Agostini
-Mechanical Maintenance Engineer
+I'm a Venezuelan-Italian Software Developer with a degree in Mechanical Maintenance Engineer
 
 == Summary
 5 years of experience in *Web Development*, using mostly React, NodeJs/Express, Mysql, Ruby/Sinatra, Python/Flask, Html, Css, Javascript
