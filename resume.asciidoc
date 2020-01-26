@@ -40,6 +40,8 @@ Built and adapted the electronic system
 - *GitHub*: https://github.com/madacol
 - *Twitter*: https://twitter.com/madacol
 
+<<<
+
 == Other Profiles
 
 - *StackOverflow*: https://stackoverflow.com/users/3163120/madacol
