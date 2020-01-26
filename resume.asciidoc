@@ -25,8 +25,8 @@ https://github.com/madacol/webOven[Simple web interface] that runs in the RPi, t
 Built with *Python/Flask* and used *matplotlib* for graphing.
 
 - http://www.mifacturaperu.com/[Mi Factura Perú]  --  2019 +
-Mantained a desktop app that help businesses make electronic invoices, built with *VB.NET/WPF*, *PHP/Slim* and *Mysql*. +
-And a simple website built with *PHP/Laravel*.
+Built the website with *PHP/Laravel*. +
+Mantained a desktop app that help businesses make electronic invoices, built with *VB.NET/WPF*, *PHP/Slim* and *Mysql*.
 
 - https://www.youtube.com/watch?v=wu8dKf8xgoI[Helical Milling]  --  ~ 2013  --  https://github.com/madacol/helical-milling[source] +
 Designed, built and developed the electronic system using a *PIC16F877*
