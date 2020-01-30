@@ -17,12 +17,14 @@ I'm co-leading a team of 6 people in building a web-based ERP using *React*, *No
 A hobbie project that analyzes http://www.localbitcoins.com to get currency rates in bitcoins, calculate cross rates between currencies and render history graphs. Mostly oriented to Venezuelans, but currencies are customizable. +
 Built with *Svelte*, *Ruby/Sinatra* and *PostgreSql* (with ORM)
 
-- https://www.youtube.com/watch?v=MHU5xQRTyus[Arduino controlled conveyor oven]  --  2018 - Current  --  https://github.com/madacol/ArduinoOven[source] +
+- https://www.youtube.com/watch?v=MHU5xQRTyus[ArduinoOven] - an arduino controlled conveyor oven  --  2018 - Current  --  https://github.com/madacol/ArduinoOven[source] +
 Designed, built and developed the electronic system using an *Arduino Mega* with a Touchscreen interface. +
 I implemented software-based-PIDs to control temperatures and conveyor's speed. +
 A *Raspberry Pi Zero* is connected to the Arduino, which logs data from Serial port, and allows me to connect remotely to flash the Arduino. +
-https://github.com/madacol/webOven[Simple web interface] that runs in the Raspberry Pi Zero, to show history graphs from logs. +
-Built with *Python/Flask* and used *matplotlib* for graphing.
+
+- https://github.com/madacol/webOven[webOven]  --  2019 - Current +
+Minimal web for the *ArduinoOven* that runs in the Raspberry Pi Zero. It shows history graphs from data logs. +
+Built with *Python/Flask* and *matplotlib* for graphing.
 
 - http://www.mifacturaperu.com/[Mi Factura Perú]  --  2019 +
 Built the website with *PHP/Laravel*. +
@@ -38,6 +40,8 @@ Designed, built and developed the electronic system using a *PIC16F877*
 - https://www.youtube.com/watch?v=joTXaflXwJw[CNC router]  --  ~ 2009 - 2012 +
 Built and adapted the electronic system
 
+<<<
+
 == Languages
 
 === English
@@ -46,8 +50,6 @@ Built and adapted the electronic system
 *Reading*: Excellent +
 
 _In *software development* I am more proficient in english than in my native language_
-
-<<<
 
 === Spanish
 Native speaker
