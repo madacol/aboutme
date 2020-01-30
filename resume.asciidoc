@@ -34,13 +34,32 @@ Designed, built and developed the electronic system using a *PIC16F877*
 - https://www.youtube.com/watch?v=joTXaflXwJw[CNC router]  --  ~ 2009 - 2012 +
 Built and adapted the electronic system
 
+== Languages
+
+=== English
+*Speaking*: Good +
+*Writing*: Excellent +
+*Reading*: Excellent +
+
+_In *software development* I am more proficient in english than in my native language_
+
+=== Spanish
+Native speaker
+
+<<<
+
+=== Italian
+Basic
+
+== Nationalities
+- Venezuelan
+- Italian
+
 == Contact
 
 - *Email*: madacol10@gmail.com
 - *GitHub*: https://github.com/madacol
 - *Twitter*: https://twitter.com/madacol
-
-<<<
 
 == Other Profiles
 
