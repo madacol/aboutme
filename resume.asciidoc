@@ -21,6 +21,7 @@ Built with *Svelte*, *Ruby/Sinatra* and *PostgreSql* (with ORM)
 Designed, built and developed the electronic system using an *Arduino Mega* with a Touchscreen interface. +
 I implemented software-based-PIDs to control temperatures and conveyor's speed. +
 A *Raspberry Pi Zero* is connected to the Arduino, which logs data from Serial port, and allows me to connect remotely to flash the Arduino. +
+Built with *C++/Arduino*, *1 Arduino Mega*, *1 TouchScreen*, *4 temperature sensors*, *2 Servomotors*, *2 Encoders*, *1 DC Motor* and *2 Relays* +
 
 - https://github.com/madacol/webOven[webOven]  --  2019 - Current +
 Minimal web for the *ArduinoOven* that runs in the Raspberry Pi Zero. It shows history graphs from data logs. +
