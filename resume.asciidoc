@@ -21,7 +21,7 @@ Built with *Svelte*, *Ruby/Sinatra* and *PostgreSql* (with ORM)
 Designed, built and developed the electronic system using an *Arduino Mega* with a Touchscreen interface. +
 I implemented software-based-PIDs to control temperatures and conveyor's speed. +
 A *Raspberry Pi Zero* is connected to the Arduino, which logs data from Serial port, and allows me to connect remotely to flash the Arduino. +
-https://github.com/madacol/webOven[Simple web interface] that runs in the RPi, to show history graphs from the logs. +
+https://github.com/madacol/webOven[Simple web interface] that runs in the Raspberry Pi Zero, to show history graphs from logs. +
 Built with *Python/Flask* and used *matplotlib* for graphing.
 
 - http://www.mifacturaperu.com/[Mi Factura Perú]  --  2019 +
