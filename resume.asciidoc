@@ -63,6 +63,9 @@ Basic
 - Venezuelan
 - Italian
 
+= More info
+*LinkedIn*: https://www.linkedin.com/in/marco-d-agostini-colaiuda-8ab0a254/
+
 ---
 
 = Contact
@@ -74,6 +77,5 @@ Basic
 = Other Profiles
 
 - *StackOverflow*: https://stackoverflow.com/users/3163120/madacol
-- *LinkedIn*: https://www.linkedin.com/in/marco-d-agostini-colaiuda-8ab0a254/
 - *Youtube*: https://www.youtube.com/user/madacol/videos
 - *Facebook*: https://www.facebook.com/madacol10
