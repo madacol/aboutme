@@ -29,7 +29,8 @@ Built with *Python/Flask* and *matplotlib* for graphing.
 
 - http://www.mifacturaperu.com/[Mi Factura Perú]  --  2019 +
 Built the website with *PHP/Laravel*. +
-Mantained a desktop app that help businesses make electronic invoices, built with *VB.NET/WPF*, *PHP/Slim* and *Mysql*.
+Mantained a desktop app that help businesses make electronic invoices. +
+Built with *VB.NET/WPF*, *PHP/Slim* and *Mysql*.
 
 - https://github.com/madacol/bitcoin-miners-monitor[Bitcoin miners monitoring system]  --  2015-2016 +
 Python scripts that ran in a Raspberry Pi to monitor bitcoin miners (Antminer S5) through LAN +
