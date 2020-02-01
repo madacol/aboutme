@@ -14,8 +14,8 @@ I'm a Venezuelan-Italian Software Developer with a degree in Mechanical Maintena
 I'm co-leading a team building a web-based ERP using *React*, *NodeJs/Express*, *Mysql* and *Docker*.
 
 - http://www.bolivarparalelo.com/beta[Bolivar Paralelo (beta)]  --  2018 - Current  --  https://github.com/madacol/bolivarparalelo[source] +
-A hobbie project that analyzes http://www.localbitcoins.com to get currency rates in bitcoins, calculate cross rates between currencies and render history graphs. Mostly oriented to Venezuelans, but currencies are customizable. +
-Built with *Svelte*, *Ruby/Sinatra* and *PostgreSql* (with ORM)
+A hobbie project that analyzes http://www.localbitcoins.com to get currency rates in bitcoins, calculate cross rates between currencies and render history graphs. +
+Built with *Svelte*, *Ruby/Sinatra* and *PostgreSql*
 
 - https://www.youtube.com/watch?v=MHU5xQRTyus[ArduinoOven] - an arduino controlled conveyor oven  --  2018 - Current  --  https://github.com/madacol/ArduinoOven[source] +
 Designed, built and developed the electronic system using an *Arduino Mega* with a Touchscreen interface. +
