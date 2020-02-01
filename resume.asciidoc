@@ -37,7 +37,8 @@ Python scripts that ran in a Raspberry Pi to monitor bitcoin miners (Antminer S5
 Built with *Python*, *Raspberry Pi*, *Google Form/Sheets*, *exim4 (Linux mailer)*
 
 - https://www.youtube.com/watch?v=wu8dKf8xgoI[Helical Milling]  --  ~ 2013  --  https://github.com/madacol/helical-milling[source] +
-Designed, built and developed the electronic system using a *PIC16F877*
+Designed, built and developed the electronic system for a conventional milling machine to be able to produce helical gears. I implemented an encoder attached to the X axis and read it with a Microcontroller which then controls a Stepper motor attached to the chuck that rotates the piece. +
+Built with a *PIC16F877* in *C*
 
 - https://www.youtube.com/watch?v=joTXaflXwJw[CNC router]  --  ~ 2009 - 2012 +
 Built and adapted the electronic system
