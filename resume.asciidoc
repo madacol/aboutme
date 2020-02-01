@@ -8,7 +8,7 @@ I'm a Venezuelan-Italian Software Developer with a degree in Mechanical Maintena
 +15 years doing *Electronic projects*, using Raspberry Pi, Arduino or PICs.
 ****
 
-== Experience
+= Experience / Projects
 
 - *Contatrib / Mi Factura Perú*  --  2019 - Current  --  _(Not yet published)_ +
 I'm co-leading a team of 6 people in building a web-based ERP using *React*, *NodeJs/Express*, *Mysql* and *Docker*.
