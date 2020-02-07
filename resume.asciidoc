@@ -24,7 +24,7 @@ A *Raspberry Pi Zero* is connected to the Arduino, which logs data from Serial p
 Built with *C++/Arduino*, *1 Arduino Mega*, *1 TouchScreen*, *4 temperature sensors*, *2 Servomotors*, *2 Encoders*, *1 DC Motor* and *2 Relays* +
 
 - https://github.com/madacol/webOven[webOven]  --  2019 - Current +
-Minimal web for the *ArduinoOven* that runs in the Raspberry Pi Zero. It shows history graphs from data logs. +
+Minimal web for the *ArduinoOven* that runs in the Raspberry Pi Zero. It shows graphical history of the sensors and actuators. +
 Built with *Python/Flask* and *matplotlib* for graphing.
 
 - http://www.mifacturaperu.com/[Mi Factura Perú]  --  2019 +
