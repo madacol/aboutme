@@ -10,7 +10,7 @@ I'm a Venezuelan-Italian Software Developer with a degree in Mechanical Maintena
 
 = Experience / Projects
 
-- *Contatrib / Mi Factura Perú*  --  2019 - Current  --  _(Not yet published)_ +
+- *Escobedo Medina Auditores Asociados*  --  2019 - Current  --  _(Not yet published)_ +
 I'm co-leading a team building a web-based ERP using *React*, *NodeJs/Express*, *Mysql* and *Docker*.
 
 - http://www.bolivarparalelo.com/beta[Bolivar Paralelo (beta)]  --  2018 - Current  --  https://github.com/madacol/bolivarparalelo[source] +
