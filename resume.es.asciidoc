@@ -1,0 +1,87 @@
+:stem: latexmath
+
+= Marco D'Agostini
+Soy un Desarrollador de software Venezolano-Italiano, graduado de Ingeniero en Mantenimiento Mecánico
+
+.Resumen
+****
++5 años de experiencia en *Desarrollo web*, usando principalmente React, NodeJs/Express, Mysql, Ruby/Sinatra, Python/Flask. +
++7 años usando *Sistemas Linux*, 5 años manejando servidores caseros (Raspberry Pi), y 2 años servidores de producción. +
++15 años desarrollando *Proyectos Electrónicos*, usando Raspberry Pi, Arduino y PICs.
+****
+
+= Experiencia / Proyectos
+
+- *Escobedo Medina Auditores Asociados*  --  2019 - Actualidad  --  _(Aún no está publicado)_ +
+Estoy co-liderando un equipo desarrollando un ERP web, usando *React*, *NodeJs/Express*, *Mysql* y *Docker*.
+
+- http://www.bolivarparalelo.com/beta[Bolivar Paralelo (beta)]  --  2018 - Actualidad  --  https://github.com/madacol/bolivarparalelo[source] +
+Un proyecto personal que analiza http://www.localbitcoins.com para obtener el precio del bitcoin en otras monedas, calcula tasas entre las monedas y grafica historiales. +
+Hecho con *Svelte*, *Ruby/Sinatra* y *PostgreSql*
+
+- https://www.youtube.com/watch?v=MHU5xQRTyus[ArduinoOven] - Un horno de banda controlado con Arduino  --  2018 - Actualidad  --  https://github.com/madacol/ArduinoOven[source] +
+Diseñé, construí y desarrollé el sistema electrónico usando un *Arduino Mega* con pantalla táctil. +
+Implementé PIDs (de software) para controlar las temperaturas y la velocidad de la banda. +
+Una *Raspberry Pi Zero* está conectada al Arduino para registrar la data a través del puerto serial, y para conectarme remotamente por SSH para reprogramar el Arduino. +
+Hecho con *C++/Arduino*, *1 Arduino Mega*, *1 Pantalla táctil*, *4 sensores de temperatura*, *2 Servomotores*, *2 Encoders*, *1 Motor DC* y *2 Relés* +
+
+- https://github.com/madacol/webOven[webOven]  --  2019 - Actualidad +
+Una pequeña web para el *ArduinoOven* que corre en la Raspberry Pi Zero. Sirve para mostrar un gráfico histórico del estado de los sensores y los actuadores. +
+Hecho con *Python/Flask* y *matplotlib* para graficar.
+
+- http://www.mifacturaperu.com/[Mi Factura Perú]  --  2019 +
+Construí la pagina web con *PHP/Laravel*. +
+Mantenimiento de una aplicación de escritorio que se ofrece a otras empresas para emitir comprobantes electrónicos. +
+Hecho con *VB.NET/WPF*, *PHP/Slim* y *Mysql*.
+
+- https://github.com/madacol/bitcoin-miners-monitor[Sistema de monitoreo para mineros de Bitcoin]  --  2015-2016 +
+Scrips de Python que corrían en una Raspberry Pi para monitorear mineros de Bitcoin (Antminer S5) en LAN +
+Hecho con *Python*, *Raspberry Pi*, *Google Form/Sheets*, *exim4 (Linux mailer)*
+
+- https://www.youtube.com/watch?v=wu8dKf8xgoI[Fresadora helicoidal]  --  ~ 2013  --  https://github.com/madacol/helical-milling[source] +
+Diseñé, construí y desarrollé el sistema electrónico para fabricar piñones helicoidales en una fresadora convencional. +
+Implementé un encoder acoplado al Eje X y lo leía con un microcontrolador el cual a su vez controlaba un motor paso-a-paso acoplado al mandril que rotaba la pieza. +
+El encoder simplemente lee el recorrido del eje X, y dependiendo de una previa configuracion
+latexmath:[\frac{AngulosARotar}{PasosEnX}]
+se va rotando la pieza para mantener el ángulo helicoidal deseado. +
+Hecho con un *PIC16F877* en *C*
+
+- https://www.youtube.com/watch?v=joTXaflXwJw[Pantógrafo CNC]  --  ~ 2009 - 2012 +
+Construí y adapté el sistema eléctrónico
+
+<<<
+
+= Idiomas
+
+== Inglés
+*Conversional* -- 4.5/5 +
+*Escritura* -- 5/5 +
+*Lectura* -- 5/5 +
+
+=== Italiano
+2/5
+
+=== Español
+Idioma nativo
+
+
+= Nacionalidades
+- Venezolano
+- Italiano
+
+= Mas Información
+*LinkedIn*: https://www.linkedin.com/in/madacol/
+
+---
+
+= Contactos
+
+- *Email*: madacol10@gmail.com
+- *GitHub*: https://github.com/madacol
+- *Twitter*: https://twitter.com/madacol
+
+= Otros Perfiles
+
+- *StackOverflow*: https://stackoverflow.com/users/3163120/madacol
+- *Youtube*: https://www.youtube.com/user/madacol/videos
+- *Facebook*: https://www.facebook.com/madacol10
