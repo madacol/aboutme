@@ -10,35 +10,44 @@ I'm a Venezuelan-Italian Software Developer with a degree in Mechanical Maintena
 +15 years doing *Electronic projects*, using Raspberry Pi, Arduino or PICs.
 ****
 
-= Experience / Projects
+= Experience
 
-- *Escobedo Medina Auditores Asociados*  --  2019 - Current  --  _(Not yet published)_ +
-I'm co-leading a team building a web-based ERP using *React*, *NodeJs/Express*, *Mysql* and *Docker*.
+- *Escobedo Medina Auditores Asociados* +
+2019 - 2020 +
+I co-leaded a team building a web-based ERP using *React*, *NodeJs/Express*, *Mysql* and *Docker*. +
+Built http://www.mifacturaperu.com/[Mi Factura Perú] with *PHP/Laravel*. +
+Mantained a desktop app that help businesses make electronic invoices. +
+Built with *VB.NET/WPF*, *PHP/Slim* and *Mysql*.
 
-- http://www.bolivarparalelo.com/beta[Bolivar Paralelo (beta)]  --  2018 - Current  --  https://github.com/madacol/bolivarparalelo[source] +
+= Projects
+
+- http://www.bolivarparalelo.com/beta[Bolivar Paralelo (beta)] +
+2018 - Current +
+https://github.com/madacol/bolivarparalelo[source] +
 A hobbie project that analyzes http://www.localbitcoins.com to get currency rates in bitcoins, calculate cross rates between currencies and render history graphs. +
 Built with *Svelte*, *Ruby/Sinatra* and *PostgreSql*
 
-- https://www.youtube.com/watch?v=MHU5xQRTyus[ArduinoOven] - an arduino-controlled conveyor oven  --  2018 - Current  --  https://github.com/madacol/ArduinoOven[source] +
+- https://www.youtube.com/watch?v=MHU5xQRTyus[ArduinoOven] - an arduino-controlled conveyor oven +
+2018 - Current +
+https://github.com/madacol/ArduinoOven[source] +
 Designed, built and developed the electronic system using an *Arduino Mega* with a Touchscreen interface. +
 I implemented software-based-PIDs to control temperatures and conveyor's speed. +
 A *Raspberry Pi Zero* is connected to the Arduino, which logs data from Serial port, and allows me to connect remotely through SSH to flash the Arduino. +
 Built with *C++/Arduino*, *1 Arduino Mega*, *1 TouchScreen*, *4 temperature sensors*, *2 Servomotors*, *2 Encoders*, *1 DC Motor* and *2 Relays* +
 
-- https://github.com/madacol/webOven[webOven]  --  2019 - Current +
+- https://github.com/madacol/webOven[webOven] +
+2019 - Current +
 Minimal web for the *ArduinoOven* that runs in the Raspberry Pi Zero. It shows graphical history of the sensors and actuators. +
 Built with *Python/Flask* and *matplotlib* for graphing.
 
-- http://www.mifacturaperu.com/[Mi Factura Perú]  --  2019 +
-Built the website with *PHP/Laravel*. +
-Mantained a desktop app that help businesses make electronic invoices. +
-Built with *VB.NET/WPF*, *PHP/Slim* and *Mysql*.
-
-- https://github.com/madacol/bitcoin-miners-monitor[Bitcoin miners monitoring system]  --  2015-2016 +
+- https://github.com/madacol/bitcoin-miners-monitor[Bitcoin miners monitoring system] +
+2015-2016 +
 Python scripts that ran in a Raspberry Pi to monitor bitcoin miners (Antminer S5) through LAN +
 Built with *Python*, *Raspberry Pi*, *Google Form/Sheets*, *exim4 (Linux mailer)*
 
-- https://www.youtube.com/watch?v=wu8dKf8xgoI[Helical Milling]  --  ~ 2013  --  https://github.com/madacol/helical-milling[source] +
+- https://www.youtube.com/watch?v=wu8dKf8xgoI[Helical Milling] +
+2013 +
+https://github.com/madacol/helical-milling[source] +
 Designed, built and developed the electronic system for a conventional milling machine to produce helical gears. +
 I implemented an encoder attached to the X axis and read it with a Microcontroller which then controls a Stepper motor attached to the chuck that rotates the piece. +
 The encoder just reads the trayectory in the X axis, and according to a previous configuration
@@ -46,7 +55,8 @@ latexmath:[\frac{AnglesToRotate}{StepsInX}]
 it rotates the piece to follow the desired helical angle. +
 Built with a *PIC16F877* in *C*
 
-- https://www.youtube.com/watch?v=joTXaflXwJw[CNC router]  --  ~ 2009 - 2012 +
+- https://www.youtube.com/watch?v=joTXaflXwJw[CNC router] +
+2009 - 2012 +
 Built and adapted the electronic system
 
 <<<
