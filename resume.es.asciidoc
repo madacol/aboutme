@@ -35,7 +35,7 @@ Mantenimiento de una aplicación de escritorio que se ofrece a otras empresas pa
 Hecho con *VB.NET/WPF*, *PHP/Slim* y *Mysql*.
 
 - https://github.com/madacol/bitcoin-miners-monitor[Sistema de monitoreo para mineros de Bitcoin]  --  2015-2016 +
-Scrips de Python que corrían en una Raspberry Pi para monitorear mineros de Bitcoin (Antminer S5) en LAN +
+Scripts de Python que corrían en una Raspberry Pi para monitorear mineros de Bitcoin (Antminer S5) en LAN +
 Hecho con *Python*, *Raspberry Pi*, *Google Form/Sheets*, *exim4 (Linux mailer)*
 
 - https://www.youtube.com/watch?v=wu8dKf8xgoI[Fresadora helicoidal]  --  ~ 2013  --  https://github.com/madacol/helical-milling[source] +
