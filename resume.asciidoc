@@ -48,7 +48,7 @@ Built with *Python*, *Raspberry Pi*, *Google Form/Sheets*, *exim4 (Linux mailer)
 - https://www.youtube.com/watch?v=wu8dKf8xgoI[Helical Milling] +
 2013 +
 https://github.com/madacol/helical-milling[source] +
-Designed, built and developed the electronic system for a conventional milling machine to produce helical gears. +
+Designed, built and developed the electronic system for a conventional milling machine to allow it to produce helical gears. +
 I implemented an encoder attached to the X axis and read it with a Microcontroller which then controls a Stepper motor attached to the chuck that rotates the piece. +
 The encoder just reads the trayectory in the X axis, and according to a previous configuration
 latexmath:[\frac{AnglesToRotate}{StepsInX}]
