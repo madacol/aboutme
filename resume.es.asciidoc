@@ -15,7 +15,7 @@ Soy un Desarrollador de software Venezolano-Italiano, graduado de Ingeniero en M
 - *Escobedo Medina Auditores Asociados*  --  2019 - Actualidad  --  _(Aún no está publicado)_ +
 Estoy co-liderando un equipo desarrollando un ERP web, usando *React*, *NodeJs/Express*, *Mysql* y *Docker*.
 
-- http://www.bolivarparalelo.com/beta[Bolivar Paralelo (beta)]  --  2018 - Actualidad  --  https://github.com/madacol/bolivarparalelo[source] +
+- https://bolivarparalelo.com[Bolivar Paralelo]  --  2018 - Actualidad  --  https://github.com/madacol/bolivarparalelo[source] +
 Un proyecto personal que analiza http://www.localbitcoins.com para obtener el precio del bitcoin en otras monedas, calcula tasas entre las monedas y grafica historiales. +
 Hecho con *Svelte*, *Ruby/Sinatra* y *PostgreSql*
 

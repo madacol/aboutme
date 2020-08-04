@@ -21,7 +21,7 @@ Built with *VB.NET/WPF*, *PHP/Slim* and *Mysql*.
 
 = Projects
 
-- http://www.bolivarparalelo.com/beta[Bolivar Paralelo (beta)] +
+- https://bolivarparalelo.com[Bolivar Paralelo] +
 2018 - Current +
 https://github.com/madacol/bolivarparalelo[source] +
 A hobbie project that analyzes http://www.localbitcoins.com to get currency rates in bitcoins, calculate cross rates between currencies and render history graphs. +
