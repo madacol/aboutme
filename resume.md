@@ -1,8 +1,6 @@
 
 # Marco D'Agostini
 
-I'm a Venezuelan-Italian Software Developer with a degree in Mechanical Maintenance Engineer
-
 # Summary
 
 - **3+ years of experience in *Web Development***, using mostly React, NodeJs / Express, Mysql, Svelte, Python, Ruby / Sinatra.
