@@ -3,9 +3,9 @@
 
 # Summary
 
-- **3+ years of experience in *Web Development***, using mostly React, NodeJs / Express, Mysql, Svelte, Python, Ruby / Sinatra.
-- **5+ years using *Linux based systems***, 5 years managing home servers (Raspberry Pi), and 2 years managing production servers.
-- **10+ years doing *Electronic projects***, using Raspberry Pi, Arduino or PICs.
+- **3+ years of experience in *Web Development***, using mostly React, NodeJs / Express, Mysql, Svelte, Python, Ruby / Sinatra
+- **5+ years using *Linux based systems***, 5 years managing home servers (Raspberry Pi), and 2 years managing production servers
+- **10+ years doing *Electronic projects***, using Raspberry Pi, Arduino or PICs
 
 # Experience
 
@@ -28,8 +28,8 @@
     - Built the role-based permission system.\
     I feel proud here to have developed an *ExpressJs middleware* to validate user's permissions in a developer-friendly way.\
     Example usage: **`route.get('/product/new', validatePermission(Product.New), (req,res)=>{ ...`**
-    - Developed a function that calculates the corresponding taxes and totals of an order\
-    This function is very critical, and to increase consistency it is shared across backend, frontend, and the electronic invoice manager\
+    - Developed a function that calculates the corresponding taxes and totals of an order.\
+    This function is very critical, and to increase consistency it is shared across backend, frontend, and the electronic invoice manager.\
     It's also heavily unit tested with multiple cases
 
   - **.NET Desktop invoice system**\
@@ -91,7 +91,7 @@
   [Video](https://www.youtube.com/watch?v=wu8dKf8xgoI) — [source](https://github.com/madacol/helical-milling)
 
   - Designed, built and developed the electronic system
-  - Implemented an encoder attached to the X axis and read it with a Microcontroller which moves a Stepper motor attached to the chuck that rotates the piece\
+  - Implemented an encoder attached to the X axis and read it with a Microcontroller which moves a Stepper motor attached to the chuck that rotates the piece.\
   The encoder reads the trayectory in the X axis, and according to a previous configured number `AnglesToRotate / StepsInX` it rotates the piece to follow the desired helical angle.
 
 - **CNC router** — 2009 - 2012\
