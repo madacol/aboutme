@@ -71,7 +71,7 @@
 
     Minimal web interface for the *ArduinoOven* that runs in the Raspberry Pi Zero. It shows graphical history of readings from sensors and actuators.
 
-- **Bitcoin miners monitoring system** — May 2015 - October 2016\
+- **Bitcoin miners monitoring system** — May 2015 - Septiembre 2016\
   Python scripts that ran in a Raspberry Pi to monitor bitcoin miners through LAN
 
   > **Author , Script Developer**
