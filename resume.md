@@ -1,6 +1,9 @@
 
 # Marco D'Agostini
 
+**Email**: madacol10@gmail.com\
+**LinkedIn**: [LinkedIn.com/in/madacol](https://www.linkedin.com/in/madacol/)
+
 # Summary
 
 > **Full Stack Developer , Software Engineer , Electronic Engineer**
@@ -8,10 +11,6 @@
 - **3+ years of experience in *Web Development***, using mostly React, NodeJs / Express, Mysql, Svelte, Python, Ruby / Sinatra
 - **7+ years using *Linux based systems***, 5 years managing home servers (Raspberry Pi), and 2 years managing production servers
 - **10+ years doing *Electronic projects***, using Raspberry Pi, Arduino or PICs
-
-# Contact
-
-- **Email**: madacol10@gmail.com
 
 # Experience
 
