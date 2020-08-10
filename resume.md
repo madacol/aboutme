@@ -9,6 +9,10 @@
 - **5+ years using *Linux based systems***, 5 years managing home servers (Raspberry Pi), and 2 years managing production servers
 - **10+ years doing *Electronic projects***, using Raspberry Pi, Arduino or PICs
 
+# Contact
+
+- **Email**: madacol10@gmail.com
+
 # Experience
 
 - **Escobedo Medina Auditores Asociados**, Cajamarca, Perú  —  February 2019 - June 2020\
@@ -128,14 +132,10 @@ Universidad Nacional Experimental 'Rafael Maria Baralt' (2016)
 
 ---
 
-# Contact
-
-- **Email**: madacol10@gmail.com
-- **GitHub**: <https://github.com/madacol>
-- **Twitter**: <https://twitter.com/madacol>
-
 # Other Profiles
 
+- **GitHub**: <https://github.com/madacol>
+- **Twitter**: <https://twitter.com/madacol>
 - **StackOverflow**: <https://stackoverflow.com/users/3163120/madacol>
 - **Youtube**: <https://www.youtube.com/user/madacol/videos>
 - **Facebook**: <https://www.facebook.com/madacol10>
