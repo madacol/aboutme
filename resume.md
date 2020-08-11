@@ -50,7 +50,7 @@
 # Projects
 
 - **Bolivar Paralelo** — March 2018 - Current\
-  An open-source web that analyzes <https://www.localbitcoins.com> offers to get bolivar's price along other currencies and calculate cross rates and render history graphs of prices
+  An open-source web that analyzes <https://www.localbitcoins.com> offers and get currencies' rates to calculate cross rates between them and render history graphs. *Very useful in countries with foreign exchange controls like Venezuela or Argentina*
 
   > **Author , Full Stack Developer**
 
