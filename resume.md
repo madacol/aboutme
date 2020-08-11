@@ -101,7 +101,7 @@
   The encoder reads the trayectory in the X axis, and according to a previous configured number `AnglesToRotate / StepsInX` it rotates the piece to follow the desired helical angle.
 
 - **CNC router** — 2009 - 2012\
-  A CNC router that cut metal sheets by giving it as input a CAD design.
+  A CNC router that cut metal sheets as drawn in a CAD file.
 
   > **Co-Author**
 
