@@ -133,4 +133,3 @@ Universidad Nacional Experimental 'Rafael Maria Baralt' (2016)
 **Twitter**: <https://twitter.com/madacol>\
 **StackOverflow**: <https://stackoverflow.com/users/3163120/madacol>\
 **Youtube**: <https://www.youtube.com/user/madacol/videos>\
-**Facebook**: <https://www.facebook.com/madacol10>\
