@@ -52,9 +52,9 @@
 
   > **Author , Full Stack Developer**
 
-  [Web page](https://bolivarparalelo.com) — [Source](https://github.com/madacol/bolivarparalelo)\
   **Tech Stack:** Svelte / Sapper, Nodejs, PostgreSql. *Previously built with Ruby / Sinatra*\
-  **Hosted in:** Vercel, Google Cloud Platform. *Previously hosted in Heroku*
+  **Hosted in:** Vercel, Google Cloud Platform. *Previously hosted in Heroku*\
+  [Web page](https://bolivarparalelo.com) — [Source](https://github.com/madacol/bolivarparalelo)
 
 - **ArduinoOven** — January 2018 - Current\
   A conveyor pizza oven automated using an arduino, with PID controlled temperature.
@@ -73,7 +73,7 @@
     **Tech Stack:** Python / Flask, matplotlib\
     [Source](https://github.com/madacol/webOven)
 
-    Minimal web interface for the *ArduinoOven* that runs in the Raspberry Pi Zero. It shows graphical history data of readings from sensors and actuators.
+    - Developed a local web interface that runs in the *Raspberry Pi Zero* to show history data readings from sensors and actuators.
 
 - **Bitcoin miners monitoring system** — May 2015 - Septiembre 2016\
   Python scripts that ran in a Raspberry Pi to monitor bitcoin miners through LAN
