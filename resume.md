@@ -95,7 +95,7 @@
 
   - Designed, built and developed the electronic system.
   - Implemented an encoder attached to the X axis and read it with a Microcontroller which moves a Stepper motor attached to the chuck that rotates the piece.\
-  The encoder reads the trayectory in the X axis, and according to a previous configured number `AnglesToRotate / StepsInX` it rotates the piece to follow the desired helical angle.
+  The encoder reads the trayectory in the X axis, and according to a previous configured number **`AnglesToRotate / StepsInX`** it rotates the piece to follow the desired helical angle.
 
 - **CNC router** — 2009 - 2012\
   A CNC router that cut metal sheets as drawn in a CAD file.
