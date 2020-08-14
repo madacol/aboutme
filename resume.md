@@ -12,6 +12,43 @@
 - **7+ years using *Linux based systems***, 5 years managing home servers (Raspberry Pi), and 2 years managing production servers.
 - **10+ years doing *Electronic projects***, using Raspberry Pi, Arduino or PICs.
 
+## Technical Skills
+
+<div style="display: flex; justify-content: space-between">
+<div style="display: flex; flex-direction: column">
+
+- ReactJs
+- NodeJs
+- [SQL](https://stackoverflow.com/search?q=user:3163120+[sql])
+- [Mysql](https://stackoverflow.com/search?q=user:3163120+[mysql])
+- [Linux](https://stackoverflow.com/search?q=user:3163120+[linux])
+- [Bash](https://stackoverflow.com/search?q=user:3163120+[bash])
+- [Svelte](https://github.com/madacol/bolivarparalelo)
+
+</div>
+<div style="display: flex; flex-direction: column">
+
+- Python
+- Docker
+- [Arduino](https://github.com/madacol/ArduinoOven)
+- C++
+- Raspberry Pi
+- PostgreSql
+- Ruby
+
+</div>
+<div style="display: flex; flex-direction: column">
+
+- PIC
+- Google Cloud Platform
+- Html
+- Css
+- [Javascript](https://stackoverflow.com/search?q=user:3163120+[javascript])
+- [Git](https://github.com/madacol)
+
+</div>
+</div>
+
 ## Experience
 
 - **Escobedo Medina Auditores Asociados**, Cajamarca, Perú  —  February 2019 - June 2020\
