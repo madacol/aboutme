@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "yzane.markdown-pdf",
+        "yzhang.markdown-all-in-one",
+        "telesoho.vscode-markdown-paste-image",
+        "davidanson.vscode-markdownlint",
+    ]
+}
