@@ -155,6 +155,32 @@ Universidad Nacional Experimental 'Rafael Maria Baralt' (2016)
 - **Italian**: Basic
 - **Spanish**: Native speaker
 
+## Soft Skills
+
+<div class="columnList" style="display: flex; justify-content: space-between">
+<div style="display: flex; flex-direction: column">
+
+- Fast and constant learning
+- Self-motivated
+- Clear writing
+
+</div>
+<div style="display: flex; flex-direction: column">
+
+- Proactive
+- Empathic
+- Collaborative
+
+</div>
+<div style="display: flex; flex-direction: column">
+
+- Honest
+- Ethical
+- Patience
+
+</div>
+</div>
+
 ## Nationalities
 
 - Venezuelan
