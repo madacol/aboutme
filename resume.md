@@ -9,12 +9,12 @@
 > **Full Stack Developer , Software Engineer , Electronic Engineer**
 
 - **3+ years of experience in *Web Development***, using mostly ReactJs, NodeJs / ExpressJs, Mysql, Svelte, Python, Ruby / Sinatra.
-- **7+ years using *Linux based systems***, 5 years managing home servers (Raspberry Pi), and 2 years managing production servers.
+- **7+ years using *Linux based systems***, 5+ years managing home servers (Raspberry Pi), and 2+ years managing production servers.
 - **10+ years doing *Electronic projects***, using Raspberry Pi, Arduino or PICs.
 
 ## Technical Skills
 
-<div class="columnList" style="display: flex; justify-content: space-between">
+<div class="columnList" style="display: flex; justify-content: space-around">
 <div style="display: flex; flex-direction: column">
 
 - ReactJs
@@ -29,11 +29,11 @@
 <div style="display: flex; flex-direction: column">
 
 - Python
+- Jest / Unit testing
 - Docker
 - [Arduino](https://github.com/madacol/ArduinoOven)
 - C++
 - Raspberry Pi
-- PostgreSql
 - Ruby
 
 </div>
@@ -65,13 +65,13 @@
     - Served as a Senior Engineer in a team of 6 people.
     - Helped design the achitecture along with the team leader.
     - Set up the initial structure of the frontend and backend.
-    - Developed various features, from designing the table structure, store procedures and routes in the backend, to the user interface in the frontend.
+    - Developed various features, designed their table structure, store procedures, routes in the backend, and the user interface in the frontend.
     - Dockerized the application.
     - Built the authentication system and a role-based permission system.\
-    I feel proud here to have developed an *ExpressJs-middleware* to validate user's permissions in a developer-friendly way.\
-    Example usage: **`route.get('/product/new', validatePermission(Product.New), (req,res)=>{ ...`**.
+    I feel proud here to have developed an *expressjs-middleware* to validate user's permissions in a developer-friendly way.\
+    Example usage, *middleware in bold*: `route.get('/product/new',`**`validatePermission(Product.New),`**`(req,res)=>{ ...`.
     - Developed a function that calculates the corresponding taxes and totals of an order.\
-    This function is very critical, and to increase consistency it is shared across backend, frontend, and the electronic invoice manager. It is also heavily unit tested for multiple cases.
+    This function is very critical, and heavily unit tested for multiple cases. In order to increase consistency, it is shared across backend, frontend, and the electronic invoice manager.
 
   - **.NET invoicing system**\
     **Tech Stack:** VB.NET / WPF, PHP / Slim, Mysql and PHP / Laravel
@@ -117,10 +117,13 @@
 
   > **Author**
 
-  **Tech Stack:** Python, Raspberry Pi, Google Form, Google Sheets, exim4 (Linux mailer)\
+  **Tech Stack:** Python, Bash, Raspberry Pi, Google Form, Google Sheets, exim4 (Linux mailer)\
   [Source](https://github.com/madacol/bitcoin-miners-monitor)
 
   - Used cron jobs to run scripts periodically.
+  - Gathered data through Miner's HTTP API.
+  - Uploaded data to Google Sheets through Google Forms.
+  - Notified by email any error encountered.
 
 - **Helical Milling** — 2013\
   Collection of electronic / mechanical devices that allows a conventional milling machine to produce helical gears.
@@ -141,13 +144,13 @@
 
   [Video](https://www.youtube.com/watch?v=joTXaflXwJw)
 
-  - Was in charge of researching and understanding how to implement the software and electronic systems.
+  - Researched how to implement the software and electronic systems.
   - Implemented various prototype at the software and electronic level.
 
 ## Education
 
 **Bachelor of Science, Mechanical Maintenance Engineering**\
-Universidad Nacional Experimental 'Rafael Maria Baralt' (2016)
+Universidad Nacional Experimental 'Rafael Maria Baralt' — (2016)
 
 ## Languages
 
@@ -157,7 +160,7 @@ Universidad Nacional Experimental 'Rafael Maria Baralt' (2016)
 
 ## Soft Skills
 
-<div class="columnList" style="display: flex; justify-content: space-between">
+<div class="columnList" style="display: flex; justify-content: space-around">
 <div style="display: flex; flex-direction: column">
 
 - Fast and constant learning
