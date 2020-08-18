@@ -12,3 +12,4 @@ code {
   color: black !important;
   background-color: rgb(235, 235, 235);
 }
+.columnList ul{ margin: 0; }

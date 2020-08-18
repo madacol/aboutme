@@ -14,7 +14,7 @@
 
 ## Technical Skills
 
-<div style="display: flex; justify-content: space-between">
+<div class="columnList" style="display: flex; justify-content: space-between">
 <div style="display: flex; flex-direction: column">
 
 - ReactJs
