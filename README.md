@@ -2,7 +2,7 @@
 
 ## Setup
 
-- Install extension `yzane.markdown-pdf`
+- Install vscode extension `yzane.markdown-pdf`
 - Install `sudo apt-get install wkhtmltopdf`
 
 ## Export to PDF
