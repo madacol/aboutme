@@ -107,7 +107,7 @@
 
     - Developed a local web interface that runs in the *Raspberry Pi Zero* to show history data readings from sensors and actuators.
 
-- **Bitcoin miners monitoring system** — May 2015 - Septiembre 2016\
+- **Bitcoin miners monitoring system** — May 2015 - September 2016\
   Python scripts that ran in a Raspberry Pi to monitor bitcoin miners through LAN
 
   > **Author**
