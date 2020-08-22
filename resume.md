@@ -27,7 +27,7 @@
 </div>
 <div style="display: flex; flex-direction: column">
 
-- [Bash](https://stackoverflow.com/search?q=user:3163120+[bash])
+- Bash
 - [Svelte](https://github.com/madacol/bolivarparalelo)
 - Python
 - Docker
@@ -37,6 +37,7 @@
 <div style="display: flex; flex-direction: column">
 
 - Raspberry Pi
+- Markdown
 - [Javascript](https://stackoverflow.com/search?q=user:3163120+[javascript])
 - [Git](https://github.com/madacol)
 
