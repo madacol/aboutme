@@ -64,7 +64,7 @@
     - Dockerized the application.
     - Built the authentication system and a role-based permission system.\
     I feel proud here to have developed an *expressjs-middleware* to validate user's permissions in a developer-friendly way.\
-    Example usage, *middleware in bold*: `route.get('/product/new',`**`validatePermission(Product.New),`**`(req,res)=>{ ...`.
+    Example usage, *middleware in bold*: `route.get('/products',`**`validatePermission(Product.List),`**`(req,res)=>{ ...`.
     - Developed a function that calculates the corresponding taxes and totals of an order.\
     This function is very critical, and heavily unit tested for multiple cases. In order to increase consistency, it is shared across backend, frontend, and the electronic invoice manager.
 
