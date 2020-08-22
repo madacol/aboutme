@@ -23,27 +23,20 @@
 - [SQL](https://stackoverflow.com/search?q=user:3163120+[sql])
 - [Mysql](https://stackoverflow.com/search?q=user:3163120+[mysql])
 - [Linux](https://stackoverflow.com/search?q=user:3163120+[linux])
+
+</div>
+<div style="display: flex; flex-direction: column">
+
 - [Bash](https://stackoverflow.com/search?q=user:3163120+[bash])
 - [Svelte](https://github.com/madacol/bolivarparalelo)
-
-</div>
-<div style="display: flex; flex-direction: column">
-
 - Python
-- Jest / Unit testing
 - Docker
 - [Arduino](https://github.com/madacol/ArduinoOven)
-- C++
-- Raspberry Pi
-- Ruby
 
 </div>
 <div style="display: flex; flex-direction: column">
 
-- PIC
-- Google Cloud Platform
-- Html
-- Css
+- Raspberry Pi
 - [Javascript](https://stackoverflow.com/search?q=user:3163120+[javascript])
 - [Git](https://github.com/madacol)
 
