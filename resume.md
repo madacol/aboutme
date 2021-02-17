@@ -1,7 +1,7 @@
 
 # Marco D'Agostini
 
-**Location:** Perú, but looking to relocate\
+**Location:** Italy\
 **Email**: madacol10@gmail.com\
 **LinkedIn**: [LinkedIn.com/in/madacol](https://www.linkedin.com/in/madacol/)
 
