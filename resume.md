@@ -137,22 +137,22 @@ Universidad Nacional Experimental 'Rafael Maria Baralt' — (2016)
 <div style="display: flex; flex-direction: column">
 
 - Fast and constant learning
+- First principles thinking
 - Self-motivated
-- Clear writing
 
 </div>
 <div style="display: flex; flex-direction: column">
 
+- Clear writing
 - Proactive
 - Empathic
-- Collaborative
 
 </div>
 <div style="display: flex; flex-direction: column">
 
+- Collaborative
 - Honest
 - Ethical
-- Patience
 
 </div>
 </div>
