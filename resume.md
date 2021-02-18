@@ -7,11 +7,11 @@
 
 ## Summary
 
-> **Full Stack Developer , Software Engineer , Electronic Engineer**
+> **Full Stack Developer, Software Engineer, Electronic Engineer**
 
-- **3+ years of experience in *Web Development***, using mostly ReactJs, NodeJs / ExpressJs, Mysql, Svelte, Python, Ruby.
+- **3+ years of experience in *Web Development***, using mostly ReactJs, Svelte, NodeJs / Express, Mysql.
 - **7+ years using *Linux based systems***, 5+ years managing home servers (Raspberry Pi), and 2+ years managing production servers.
-- **10+ years doing *Electronic projects***, using Raspberry Pi, Arduino or PICs.
+- **10+ non-continuous years doing *Electronic projects***, using Raspberry Pi, Arduino or PICs.
 
 ## Technical Skills
 
@@ -45,35 +45,23 @@
 ## Experience
 
 - **Escobedo Medina Auditores Asociados**, Cajamarca, Perú  —  February 2019 - June 2020\
-  Accounting business that offers software for electronic invoicing in compliance with Peru's financial and commercial regulations.
+  Accounting business that offers software for electronic invoicing.
 
-  > **Full Stack Developer , Software Engineer , Database Developer , DevOps Engineer**
+  > **All-Around Developer: Frontend, Backend, Database, DevOps**
+
+  **Tech Stack:** React, NodeJs / Express, Mysql, Docker, VB<span>.</span>NET and php\
+  [Web page](https://app.mifacturaperu.com)
 
   Initially was hired to mantain and develop a .NET invoicing system, and later started developing from scratch a web-based ERP system.
 
-  - **Web-based ERP system**\
-    **Tech Stack:** React, NodeJs / Express, Mysql and Docker\
-    [Web page](https://app.mifacturaperu.com)
-
-    - Served as a Senior Engineer in a team of 6 people.
-    - Helped design the achitecture along with the team leader.
-    - Set up the initial structure of the frontend and backend.
-    - Developed various features, designed their table structure, store procedures, routes in the backend, and the user interface in the frontend.
-    - Dockerized the application.
-    - Built the authentication system and a role-based permission system.\
-    I feel proud here to have developed an *expressjs-middleware* to validate user's permissions in a developer-friendly way.\
-    Example usage, *middleware in bold*: `route.get('/products',`**`validatePermission(Product.List),`**`(req,res)=>{ ...`.
-    - Developed a function that calculates the corresponding taxes and totals of an order.\
-    This function is very critical, and heavily unit tested for multiple cases. In order to increase consistency, it is shared across backend, frontend, and the electronic invoice manager.
-
-  - **.NET invoicing system**\
-    **Tech Stack:** VB.NET / WPF, PHP / Slim, Mysql and PHP / Laravel
-
-    - Improved the user experience of the frontend desktop application.
-    - Optimized store procedures that got slow after ~1 year of data.
-    - Implemented CI/CD, used Visual Studio's Pre-Build scripts to automate builds and [Squirrel](https://github.com/Squirrel/Squirrel.Windows) to automate deployments. Previous builds and deployments were done manually.
-    - Developed new features according to changes in laws and regulations.
-    - Built a [web page to download invoices](http://www.mifacturaperu.com/).
+  - Replaced the lead programmer at the time and learned the Tech Stack in 3 months. Had no previous experience with the languages VB<span>.</span>NET, SQL or php.
+  - Optimized a DB's stored procedure that took 7+ seconds after ~1 year of data, and reduced it to milliseconds by precomputing it every hour and caching the result.
+  - Implemented an upgrading system to avoid per-client manual upgrades by the support team, thus removed client's downtime, and automated builds and deploys.
+  - Helped design the new *web-based ERP system's* achitecture with the new team leader, implemented the frontend's and backend's architecture and later dockerized it.
+  - Built an authentication system with role-based permissions.\
+    Developed a *middleware* to validate user's permissions in a developer-friendly way.\
+    Example usage: `route.get('/products',`**`validatePermission(Product.List),`**`(req,res)=>{ ...`
+  - Developed and heavily unit tested a critical function that calculates the taxes and totals of an order, it is shared across the backend, frontend, and an electronic invoice manager.
 
 ## Projects
 
@@ -82,8 +70,8 @@
 
   > **Author , Full Stack Developer**
 
-  **Tech Stack:** Svelte / Sapper, Nodejs, PostgreSql. *Previously built with Ruby / Sinatra*\
-  **Hosted in:** Vercel, Google Cloud Platform. *Previously hosted in Heroku*\
+  **Tech Stack:** Svelte / Sapper, Nodejs, PostgreSql\
+  **Hosted in:** Vercel, Google Cloud Platform\
   [Web page](https://bolivarparalelo.com) — [Source](https://github.com/madacol/bolivarparalelo)
 
 - **ArduinoOven** — January 2018 - Current\
@@ -91,19 +79,12 @@
 
   > **Co-Author , Electronic Engineer , Software Engineer, Web Developer**
 
-  - **Arduino system**\
-    **Tech Stack:** C++ / Arduino\
-    [Video](https://www.youtube.com/watch?v=MHU5xQRTyus) — [Source](https://github.com/madacol/ArduinoOven)
+  **Tech Stack:** C++ / Arduino, Raspberry Pi, Bash, Python\
+  [Video](https://www.youtube.com/watch?v=MHU5xQRTyus) — [Source](https://github.com/madacol/ArduinoOven)
 
-    - Designed, built and developed the electronic system around an *Arduino Mega* with a Touchscreen interface.
-    - Implemented software-based-PIDs to control temperatures and conveyor's speed (cook time).
-    - A *Raspberry Pi Zero* is connected to the Arduino, which logs data from the Serial port, and allows remote connections through SSH to monitor and update the Arduino.
-
-  - **webOven**\
-    **Tech Stack:** Python / Flask, matplotlib\
-    [Source](https://github.com/madacol/webOven)
-
-    - Developed a local web interface that runs in the *Raspberry Pi Zero* to show history data readings from sensors and actuators.
+  - Designed, built and developed the electronic system around an *Arduino Mega* with a Touchscreen interface.
+  - Implemented software-based-PIDs to control temperatures and conveyor's speed (cook time).
+  - Attached a *Raspberry Pi Zero*  to the Arduino, to log data from the Serial port, serve a Web UI, and allow remote SSH connections to monitor and update the Arduino.
 
 - **Bitcoin miners monitoring system** — May 2015 - September 2016\
   Python scripts that ran in a Raspberry Pi to monitor bitcoin miners through LAN
@@ -127,18 +108,17 @@
   [Video](https://www.youtube.com/watch?v=wu8dKf8xgoI) — [source](https://github.com/madacol/helical-milling)
 
   - Designed, built and developed the electronic system.
-  - Implemented an encoder attached to the X axis and read it with a Microcontroller which moves a Stepper motor attached to the chuck that rotates the piece.\
-  The encoder reads the trayectory in the X axis, and according to a previous configured number **`AnglesToRotate / StepsInX`** it rotates the piece to follow the desired helical angle.
+  - Used optical sensors to build an encoder that reads the trayectory in the X axis, and according to a previous configured number **`AnglesToRotate / StepsInX`** it rotates the piece to follow the desired helical angle\
+  The encoder is read by the Microcontroller which moves a Stepper motor attached to the chuck that rotates the piece.
 
 - **CNC router** — 2009 - 2012\
-  A CNC router that cut metal sheets as drawn in a CAD file.
+  A CNC router that cut metal sheets up to 3 inches thick as drawn in a CAD file.
 
   > **Co-Author**
 
   [Video](https://www.youtube.com/watch?v=joTXaflXwJw)
 
-  - Researched how to implement the software and electronic systems.
-  - Implemented various prototype at the software and electronic level.
+  Researched and implemented the software and electronic systems.
 
 ## Education
 
