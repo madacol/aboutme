@@ -69,16 +69,12 @@
 - **Bolivar Paralelo** — March 2018 - Current\
   An open-source web that analyzes <https://www.localbitcoins.com> offers and get currencies' rates to calculate cross rates between them and render history graphs. *Very useful in countries with foreign exchange controls like Venezuela or Argentina*
 
-  > **Author , Full Stack Developer**
-
   **Tech Stack:** Svelte / Sapper, Nodejs, PostgreSql\
   **Hosted in:** Vercel, Google Cloud Platform\
   [Web page](https://bolivarparalelo.com) — [Source](https://github.com/madacol/bolivarparalelo)
 
 - **ArduinoOven** — January 2018 - Current\
   A conveyor pizza oven automated using an arduino, with PID controlled temperature.
-
-  > **Co-Author , Electronic Engineer , Software Engineer, Web Developer**
 
   **Tech Stack:** C++ / Arduino, Raspberry Pi, Bash, Python\
   [Video](https://www.youtube.com/watch?v=MHU5xQRTyus) — [Source](https://github.com/madacol/ArduinoOven)
@@ -89,8 +85,6 @@
 
 - **Bitcoin miners monitoring system** — May 2015 - September 2016\
   Python scripts that ran in a Raspberry Pi to monitor bitcoin miners through LAN
-
-  > **Author**
 
   **Tech Stack:** Python, Bash, Raspberry Pi, Google Form, Google Sheets, exim4 (Linux mailer)\
   [Source](https://github.com/madacol/bitcoin-miners-monitor)
@@ -103,8 +97,6 @@
 - **Helical Milling** — 2013\
   Collection of electronic / mechanical devices that allows a conventional milling machine to produce helical gears.
 
-  > **Co-Author , Electronic Engineer**
-
   **Tech Stack:** C / PIC16F877\
   [Video](https://www.youtube.com/watch?v=wu8dKf8xgoI) — [source](https://github.com/madacol/helical-milling)
 
@@ -114,8 +106,6 @@
 
 - **CNC router** — 2009 - 2012\
   A CNC router that cut metal sheets up to 3 inches thick as drawn in a CAD file.
-
-  > **Co-Author**
 
   [Video](https://www.youtube.com/watch?v=joTXaflXwJw)
 
