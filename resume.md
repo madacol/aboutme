@@ -2,6 +2,7 @@
 # Marco D'Agostini
 
 **Location:** Italy\
+**Nationalities:** Venezuelan, Italian\
 **Email**: madacol10@gmail.com\
 **LinkedIn**: [LinkedIn.com/in/madacol](https://www.linkedin.com/in/madacol/)
 
@@ -156,11 +157,6 @@ Universidad Nacional Experimental 'Rafael Maria Baralt' — (2016)
 
 </div>
 </div>
-
-## Nationalities
-
-- Venezuelan
-- Italian
 
 ## More information
 
