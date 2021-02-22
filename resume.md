@@ -14,6 +14,28 @@
 - **7+ years using *Linux based systems***, 5+ years managing home servers (Raspberry Pi), and 2+ years managing production servers.
 - **10+ non-continuous years doing *Electronic projects***, using Raspberry Pi, Arduino or PICs.
 
+## Experience
+
+### Escobedo Medina Auditores Asociados, Cajamarca, Perú  —  February 2019 - June 2020
+
+  Accounting business that offers software for electronic invoicing.
+
+  > **All-Around Developer: Frontend, Backend, Database, DevOps**
+
+  **Tech Stack:** React, NodeJs / Express, Mysql, Docker, VB<span>.</span>NET and php\
+  [Web page](https://app.mifacturaperu.com)
+
+  Initially was hired to mantain and develop a .NET invoicing system, and later started developing from scratch a web-based ERP system.
+
+- Replaced the lead programmer at the time and learned the Tech Stack in 3 months. Had no previous experience with the languages VB<span>.</span>NET, SQL or php.
+- Optimized a DB's stored procedure that took 7+ seconds after ~1 year of data, and reduced it to milliseconds by precomputing it every hour and caching the result.
+- Implemented an upgrading system to avoid per-client manual upgrades by the support team, thus removed client's downtime, and automated builds and deploys.
+- Helped design the new *web-based ERP system's* achitecture with the new team leader, implemented the frontend's and backend's architecture and later dockerized it.
+- Built an authentication system with role-based permissions.\
+  Developed a *middleware* to validate user's permissions in a developer-friendly way.\
+  Example usage: `route.get('/products',`**`validatePermission(Product.List),`**`(req,res)=>{ ...`
+- Developed and heavily unit tested a critical function that calculates the taxes and totals of an order, it is shared across the backend, frontend, and an electronic invoice manager.
+
 ## Technical Skills
 
 <div class="columnList" style="display: flex; justify-content: space-around">
@@ -43,27 +65,31 @@
 </div>
 </div>
 
-## Experience
+## Soft Skills
 
-### Escobedo Medina Auditores Asociados, Cajamarca, Perú  —  February 2019 - June 2020
+<div class="columnList" style="display: flex; justify-content: space-around">
+<div style="display: flex; flex-direction: column">
 
-  Accounting business that offers software for electronic invoicing.
+- Fast and constant learning
+- First principles thinking
+- Self-motivated
 
-  > **All-Around Developer: Frontend, Backend, Database, DevOps**
+</div>
+<div style="display: flex; flex-direction: column">
 
-  **Tech Stack:** React, NodeJs / Express, Mysql, Docker, VB<span>.</span>NET and php\
-  [Web page](https://app.mifacturaperu.com)
+- Clear writing
+- Proactive
+- Empathic
 
-  Initially was hired to mantain and develop a .NET invoicing system, and later started developing from scratch a web-based ERP system.
+</div>
+<div style="display: flex; flex-direction: column">
 
-- Replaced the lead programmer at the time and learned the Tech Stack in 3 months. Had no previous experience with the languages VB<span>.</span>NET, SQL or php.
-- Optimized a DB's stored procedure that took 7+ seconds after ~1 year of data, and reduced it to milliseconds by precomputing it every hour and caching the result.
-- Implemented an upgrading system to avoid per-client manual upgrades by the support team, thus removed client's downtime, and automated builds and deploys.
-- Helped design the new *web-based ERP system's* achitecture with the new team leader, implemented the frontend's and backend's architecture and later dockerized it.
-- Built an authentication system with role-based permissions.\
-  Developed a *middleware* to validate user's permissions in a developer-friendly way.\
-  Example usage: `route.get('/products',`**`validatePermission(Product.List),`**`(req,res)=>{ ...`
-- Developed and heavily unit tested a critical function that calculates the taxes and totals of an order, it is shared across the backend, frontend, and an electronic invoice manager.
+- Collaborative
+- Honest
+- Ethical
+
+</div>
+</div>
 
 ## Projects
 
@@ -127,32 +153,6 @@ Universidad Nacional Experimental 'Rafael Maria Baralt' — (2016)
 - **English**: Advanced
 - **Italian**: Basic
 - **Spanish**: Native speaker
-
-## Soft Skills
-
-<div class="columnList" style="display: flex; justify-content: space-around">
-<div style="display: flex; flex-direction: column">
-
-- Fast and constant learning
-- First principles thinking
-- Self-motivated
-
-</div>
-<div style="display: flex; flex-direction: column">
-
-- Clear writing
-- Proactive
-- Empathic
-
-</div>
-<div style="display: flex; flex-direction: column">
-
-- Collaborative
-- Honest
-- Ethical
-
-</div>
-</div>
 
 ## More information
 
