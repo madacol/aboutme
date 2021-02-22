@@ -36,7 +36,7 @@
   Example usage: `route.get('/products',`**`validatePermission(Product.List),`**`(req,res)=>{ ...`
 - Developed and heavily unit tested a critical function that calculates the taxes and totals of an order, it is shared across the backend, frontend, and an electronic invoice manager.
 
-## Technical Skills
+## Hard Skills
 
 <div class="columnList" style="display: flex; justify-content: space-around">
 <div style="display: flex; flex-direction: column">
