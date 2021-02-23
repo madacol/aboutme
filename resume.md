@@ -72,7 +72,7 @@
 
 - Fast and constant learning
 - First principles thinking
-- Self-motivated
+- Big picture thinking
 
 </div>
 <div style="display: flex; flex-direction: column">
