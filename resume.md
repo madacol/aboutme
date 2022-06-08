@@ -107,7 +107,7 @@
 
 - Designed, built and developed the electronic system around an *Arduino Mega* with a Touchscreen interface.
 - Implemented software-based-PIDs to control temperatures and conveyor's speed (cook time).
-- Attached a *Raspberry Pi Zero*  to the Arduino, to log data from the Serial port, serve a Web UI, and allow remote SSH connections to monitor and update the Arduino.
+- Attached a *Raspberry Pi Zero*  to the Arduino, to log data from the Serial port, serve a Web UI, and allow remote SSH connections to monitor the system and update the firmware.
 
 ### Bitcoin miners monitoring system — May 2015 - September 2016
 
