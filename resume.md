@@ -22,7 +22,7 @@
 
   > **All-Around Developer: Frontend, Backend, Database, DevOps**
 
-  **Tech Stack:** React, NodeJs / Express, Mysql, Docker, VB<span>.</span>NET and php\
+  **Tech Stack:** React, NodeJs / Express, Mysql, Docker, VB<span>.</span>NET and php
 
   Was hired to maintain and develop a .NET invoicing system, and later started developing from scratch a web-based ERP system.
 
