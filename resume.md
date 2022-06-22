@@ -20,7 +20,7 @@
 
   Accounting business that offers software for electronic invoicing.
 
-  > **All-Around Developer: Frontend, Backend, Database, DevOps**
+  > **Software Developer: Frontend, Backend, Database, DevOps**
 
   **Tech Stack:** React, NodeJs / Express, Mysql, Docker, VB<span>.</span>NET and php
 
