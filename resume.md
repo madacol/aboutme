@@ -10,9 +10,9 @@
 
 > **Full Stack Developer, Software Engineer, Electronic Engineer**
 
-- **3+ years of experience in *Web Development***, using mostly ReactJs, Svelte, NodeJs / Express, Mysql.
-- **7+ years using *Linux based systems***, 5+ years managing home servers (Raspberry Pi) and 2+ years managing production servers.
-- **10+ non-continuous years doing *Electronic projects***, using Raspberry Pi, Arduino or PICs.
+- **4+ years of experience in *Web Development***, using mostly Svelte, ReactJs, NodeJs / Express, PostgreSQL.
+- **9+ years using *Linux based systems***, 7+ years managing home servers (Raspberry Pi) and 2+ years managing production servers.
+- **13+ non-continuous years doing *Electronic projects***, using Raspberry Pi, Arduino or PICs.
 
 ## Experience
 
