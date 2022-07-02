@@ -42,6 +42,22 @@
   **Tech Stack:** Firefox, Rollup, Svelte\
   [Video](https://www.youtube.com/watch?v=i8vP2M1B5UY&list=PLNb0YnM0RyKikrldCJ3hfWYxspbccqudE&index=1) — [Source](https://github.com/madacol/webpipe)
 
+### Taionca management web — October 2020 - Current
+
+  A custom management software adapted to a remotely distributed management team.
+
+  **Tech Stack:** Svelte / Sapper, NodeJs, PostgreSQL\
+  **Hosted in:** Vercel, Google Cloud Platform
+
+Features:
+
+- Authentication system with role-based permissions
+- Expense management
+- Inventory management
+- Tracking of virtual balances on top of real bank accounts
+- Automatic profit calculation and virtual distribution on job completion
+- Multi-currency system with automatic currency conversion
+
 ### Bolivar Paralelo — March 2018 - Current
 
   An open-source web that analyzes <https://www.localbitcoins.com> offers and get currencies' rates to calculate cross rates between them and render history graphs. *Very useful in countries with foreign exchange controls like Venezuela or Argentina*
