@@ -33,61 +33,6 @@
 - Built an authentication system with role-based permissions.
 - Developed and heavily unit tested a critical function that calculates taxes and totals of an order, it is shared across the backend, frontend, and an electronic invoice manager.
 
-## Hard Skills
-
-<div class="columnList" style="display: flex; justify-content: space-around">
-<div style="display: flex; flex-direction: column">
-
-- ReactJs
-- NodeJs
-- [Mysql](https://stackoverflow.com/search?q=user:3163120+[mysql])
-- PostgreSQL
-
-</div>
-<div style="display: flex; flex-direction: column">
-
-- [Svelte](https://github.com/madacol/bolivarparalelo)
-- Python
-- [Arduino](https://github.com/madacol/ArduinoOven)
-- Raspberry Pi
-
-</div>
-<div style="display: flex; flex-direction: column">
-
-- [Markdown / Writing](https://github.com/madacol/knowledge)
-- [Linux](https://stackoverflow.com/search?q=user:3163120+[linux])
-- Docker
-- [Javascript](https://stackoverflow.com/search?q=user:3163120+[javascript])
-
-</div>
-</div>
-
-## Soft Skills
-
-<div class="columnList" style="display: flex; justify-content: space-around">
-<div style="display: flex; flex-direction: column">
-
-- Fast and constant learning
-- First principles thinking
-- Big picture thinking
-
-</div>
-<div style="display: flex; flex-direction: column">
-
-- Clear writing
-- Proactive
-- Empathic
-
-</div>
-<div style="display: flex; flex-direction: column">
-
-- Collaborative
-- Honest
-- Ethical
-
-</div>
-</div>
-
 ## Projects
 
 ### Webpipe — February 2022 - Current
@@ -146,6 +91,61 @@
   [Video](https://www.youtube.com/watch?v=joTXaflXwJw)
 
   Researched and implemented the software and electronic systems.
+
+## Hard Skills
+
+<div class="columnList" style="display: flex; justify-content: space-around">
+<div style="display: flex; flex-direction: column">
+
+- ReactJs
+- NodeJs
+- [Mysql](https://stackoverflow.com/search?q=user:3163120+[mysql])
+- PostgreSQL
+
+</div>
+<div style="display: flex; flex-direction: column">
+
+- [Svelte](https://github.com/madacol/bolivarparalelo)
+- Python
+- [Arduino](https://github.com/madacol/ArduinoOven)
+- Raspberry Pi
+
+</div>
+<div style="display: flex; flex-direction: column">
+
+- [Markdown / Writing](https://github.com/madacol/knowledge)
+- [Linux](https://stackoverflow.com/search?q=user:3163120+[linux])
+- Docker
+- [Javascript](https://stackoverflow.com/search?q=user:3163120+[javascript])
+
+</div>
+</div>
+
+## Soft Skills
+
+<div class="columnList" style="display: flex; justify-content: space-around">
+<div style="display: flex; flex-direction: column">
+
+- Fast and constant learning
+- First principles thinking
+- Big picture thinking
+
+</div>
+<div style="display: flex; flex-direction: column">
+
+- Clear writing
+- Proactive
+- Empathic
+
+</div>
+<div style="display: flex; flex-direction: column">
+
+- Collaborative
+- Honest
+- Ethical
+
+</div>
+</div>
 
 ## Education
 
