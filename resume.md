@@ -85,7 +85,7 @@ Features:
   [Source](https://github.com/madacol/bitcoin-miners-monitor)
 
 - Used cron jobs to run scripts periodically.
-- Gathered data through Miner's HTTP API.
+- Gathered data through Miner's HTTP API using custom headers.
 - Uploaded data to Google Sheets through Google Forms.
 - Notified by email any error encountered.
 
