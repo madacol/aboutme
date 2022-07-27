@@ -1,4 +1,4 @@
-body {
+html, body {
   font-family: Arial, Helvetica, sans-serif;
   line-height: 1.5;
   font-size: 18px;
@@ -6,12 +6,18 @@ body {
 h1,h2,h3 {
   font-weight: bold;
 }
+h1 {
+  padding-top: 0;
+  margin-top: 0;
+  border-bottom: 1px solid black;
+}
 h2 {
   padding-top: 15px;
   border-top: 1px solid black;
 }
-code {
-  padding: 2px 5px;
+blockquote, code {
+  padding: 0 1em;
+  margin: 0;
   color: black !important;
   background-color: rgb(235, 235, 235);
 }

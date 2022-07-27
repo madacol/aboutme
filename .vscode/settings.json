@@ -1,9 +1,3 @@
 {
     "editor.tabSize": 2,
-    "markdownlint.config": {
-        "MD033": false
-    },
-    "markdown-pdf.styles": [
-        ".vscode/markdown-pdf-styles.css"
-    ],
 }

@@ -1,11 +1,17 @@
 # Exporting resume to PDF
 
-## Setup
+## Install dependencies
 
-- Install vscode extension `yzane.markdown-pdf`
-- Install `sudo apt-get install wkhtmltopdf`
+```bash
+sudo apt-get install pandoc wkhtmltopdf
+```
 
 ## Export to PDF
 
-1. Export to HTML with Markdown PDF
-2. Run command `wkhtmltopdf --margin-bottom 10mm --margin-top 10mm resume.html resume.pdf`
+In Vscode, <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>B</kbd> while focusing the file to be converted
+
+or
+
+```bash
+./build.sh resume.md
+```
