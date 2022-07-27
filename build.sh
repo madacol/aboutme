@@ -9,7 +9,7 @@ fi
 # replace '.md' with '.pdf'
 output=${1%.*}.pdf
 
-pandoc "$1" -o "$output" --pdf-engine wkhtmltopdf \
+pandoc <(./parseImport "$1") -o "$output" --pdf-engine wkhtmltopdf \
   --css styles.css \
   -V margin-top=11mm \
   -V margin-bottom=11mm \
