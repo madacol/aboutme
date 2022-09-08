@@ -1,15 +1,12 @@
-### Taionca management web — October 2020 - Current
+### Taionca web — October 2020 - Current — [Source](https://github.com/madacol/taionca)
 
   A custom management software adapted to a remotely distributed management team.
 
   **Tech Stack:** Svelte / Sapper, NodeJs, PostgreSQL\
-  **Hosted in:** Vercel, Google Cloud Platform
+  **Hosted in:** Google Cloud Platform, Fly.io
 
-Features:
-
-- Authentication system with role-based permissions
-- Expense management
+- Built an authentication system with role-based permissions
 - Inventory management
-- Tracking of virtual balances on top of real bank accounts
+- Tracking of expenses and virtual balances on top of real bank accounts
 - Automatic profit calculation and virtual distribution on job completion
 - Multi-currency system with automatic currency conversion
