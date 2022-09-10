@@ -8,7 +8,7 @@ sudo apt-get install pandoc wkhtmltopdf
 
 ## Export to PDF
 
-In Vscode, <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>B</kbd> while focusing the file to be converted
+In Vscode, press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>B</kbd> in the file to be exported
 
 or
 
