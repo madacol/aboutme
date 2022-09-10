@@ -2,7 +2,7 @@
 
 ## Summary
 
-> **Full Stack Developer, Software Engineer, Electronic Engineer**
+> **Full Stack Developer, Software Engineer, Embedded Engineer**
 
 - **13+ non-continuous years doing *Electronic projects***, using Raspberry Pi, Arduino or PICs with C/C++ or Python.
 - **9+ years using *Linux based systems***, 7+ years managing home servers (Raspberry Pi) and 2+ years managing production servers.
@@ -20,74 +20,46 @@
 
 ![[education]]
 
-## Other projects
-
-![[projects/webpipe]]
-
-![[projects/taionca web]]
-
-![[projects/bolivarparalelo]]
-
-![[projects/bitcoin miners monitor system]]
-
 ## Experience
 
 ![[experience/escobedo medina]]
 
-## Hard Skills
+## Skills
 
 <div class="columnList" style="display: flex; justify-content: space-around">
 <div style="display: flex; flex-direction: column">
 
-- [Svelte](https://github.com/madacol/bolivarparalelo)
-- NodeJs
-- PostgreSQL
-- [Mysql](https://stackoverflow.com/search?q=user:3163120+[mysql])
+- [C](https://github.com/madacol/helical-milling/blob/master/main%20-%20Fresado%20helicoidal.c) / [C++](https://github.com/madacol/ArduinoOven/blob/master/ArduinoOven.ino)
+- [Arduino](https://github.com/madacol/ArduinoOven)
+- [Microchip PIC](https://github.com/madacol/helical-milling)
+- CAD design
 
 </div>
 <div style="display: flex; flex-direction: column">
 
-- ReactJs
 - Python
-- [Arduino](https://github.com/madacol/ArduinoOven)
+- [Linux](https://stackoverflow.com/search?q=user:3163120+[linux])
+- [Markdown / Writing](https://github.com/madacol/knowledge)
 - Raspberry Pi
 
 </div>
 <div style="display: flex; flex-direction: column">
 
-- [Markdown / Writing](https://github.com/madacol/knowledge)
-- [Linux](https://stackoverflow.com/search?q=user:3163120+[linux])
-- Docker
 - [Javascript](https://stackoverflow.com/search?q=user:3163120+[javascript])
+- PostgreSQL
+- [Mysql](https://stackoverflow.com/search?q=user:3163120+[mysql])
+- Docker
 
 </div>
 </div>
 
-## Soft Skills
+## Web projects
 
-<div class="columnList" style="display: flex; justify-content: space-around">
-<div style="display: flex; flex-direction: column">
+![[projects/webpipe.short]]
 
-- Fast and constant learning
-- First principles thinking
-- Big picture thinking
+![[projects/taionca web.short]]
 
-</div>
-<div style="display: flex; flex-direction: column">
-
-- Clear writing
-- Proactive
-- Empathic
-
-</div>
-<div style="display: flex; flex-direction: column">
-
-- Collaborative
-- Honest
-- Ethical
-
-</div>
-</div>
+![[projects/bolivarparalelo.short]]
 
 ![[languages]]
 
