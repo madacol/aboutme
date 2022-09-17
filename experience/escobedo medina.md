@@ -9,9 +9,9 @@
   Was hired to maintain a .NET invoicing system, and later developed a web-based ERP system.
 
 - Replaced the lead programmer at the time and learned the Tech Stack in 3 months.
-- Optimized a DB's stored procedure that took 7+ seconds after ~1 year of data, and reduced it to milliseconds by caching it.
-- Implemented an automated upgrading system to avoid per-client manual upgrades by the support team, thus removed client's downtime, and semi-automated builds and deploys.
+- Optimized a DB's stored procedure that took 7+ seconds, and reduced it to milliseconds by caching it.
+- Automated the upgrading system of the .NET client to avoid manual upgrades by the support team.
 - Implemented and helped design the new *web-based ERP system's* architecture and later dockerized it.
 - Mentored other team members.
 - Built an authentication system with role-based permissions.
-- Developed several tests for a critical function that calculates taxes and totals of an order
+- Developed several tests for a critical function that calculates the taxes and totals of an order
