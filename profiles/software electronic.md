@@ -8,10 +8,6 @@
 - **9+ years using *Linux***, 7+ years managing home servers and 3+ years with production servers.
 - **4+ in *Web Development***, using mostly Svelte, ReactJs, NodeJs / Express, PostgreSQL.
 
-## Experience
-
-![[experience/escobedo medina]]
-
 ## Projects
 
 ![[projects/taionca web]]
@@ -22,15 +18,19 @@
 
 ![[projects/CNC router]]
 
+![[projects/chess clock]]
+
 ## Other Projects
 
 ![[projects/webpipe.short]]
 
 ![[projects/bolivarparalelo.short]]
 
-![[projects/chess clock.short]]
-
 ![[projects/bitcoin miners monitor system]]
+
+## Experience
+
+![[experience/escobedo medina]]
 
 ## Skills
 
