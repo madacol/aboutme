@@ -22,9 +22,9 @@
 
 ## Other Projects
 
-![[projects/webpipe.short]]
+![[projects/webpipe.header]]
 
-![[projects/bolivarparalelo.short]]
+![[projects/bolivarparalelo.header]]
 
 ![[projects/bitcoin miners monitor system]]
 

@@ -16,7 +16,7 @@
 
 ![[projects/CNC router]]
 
-![[projects/chess clock.short]]
+![[projects/chess clock]]
 
 ![[education]]
 
@@ -55,11 +55,11 @@
 
 ## Web projects
 
-![[projects/webpipe.short]]
+![[projects/webpipe.header]]
 
-![[projects/taionca web.short]]
+![[projects/taionca web.header]]
 
-![[projects/bolivarparalelo.short]]
+![[projects/bolivarparalelo.header]]
 
 ![[languages]]
 

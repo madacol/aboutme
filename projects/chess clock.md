@@ -1,3 +1,3 @@
-### Chess clock — 2010 — [Source](https://github.com/madacol/reloj-ajedrez)
+![[projects/chess clock.header]]
 
 **Tecks Stack:** Assembler / PIC16F84

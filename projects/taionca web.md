@@ -1,4 +1,4 @@
-### Taionca web — October 2020 - Current — [Source](https://github.com/madacol/taionca)
+![[projects/taionca web.header]]
 
   A custom management software adapted to a remotely distributed team.
 

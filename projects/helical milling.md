@@ -1,4 +1,4 @@
-### Helical Milling — 2013 — [Video](https://www.youtube.com/watch?v=wu8dKf8xgoI) — [Source](https://github.com/madacol/helical-milling)
+![[projects/helical milling.header]]
 
   This project allows a conventional horizontal milling machine to produce helical gears by rotating the chuck as the X axis advances
 

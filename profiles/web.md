@@ -22,9 +22,9 @@
 
 ![[projects/arduinooven]]
 
-![[projects/helical milling.short]]
+![[projects/helical milling.header]]
 
-![[projects/CNC router.short]]
+![[projects/CNC router.header]]
 
 ## Skills
 
