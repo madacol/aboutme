@@ -1,4 +1,4 @@
-### ArduinoOven — January 2018 - Current — [Video](https://www.youtube.com/watch?v=MHU5xQRTyus) — [Source](https://github.com/madacol/ArduinoOven)
+### Arduino controlled conveyor oven — January 2018 - Current — [Video](https://www.youtube.com/watch?v=MHU5xQRTyus) — [Source](https://github.com/madacol/ArduinoOven)
 
   A conveyor pizza oven automated using an arduino, with PID controlled temperature.
 
