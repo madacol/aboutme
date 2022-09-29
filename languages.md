@@ -1,5 +1,5 @@
 ## Languages
 
+- **Spanish**: Native speaker
 - **English**: Advanced
 - **Italian**: Basic
-- **Spanish**: Native speaker
