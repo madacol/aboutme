@@ -20,8 +20,6 @@
 
 ![[projects/chess clock]]
 
-## Other Projects
-
 ![[projects/webpipe.header]]
 
 ![[projects/bolivarparalelo.header]]
