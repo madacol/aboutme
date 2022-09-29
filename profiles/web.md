@@ -4,9 +4,9 @@
 
 > **Web, Embedded and Software Developer**
 
-- **4+ years in *Web Development***, using mostly Svelte, ReactJs, NodeJs / Express, PostgreSQL.
-- **9+ years using *Linux***, 7+ years with home servers and 2+ years with production servers.
-- **13+ years doing *Hobby Electronic projects***, using Arduino or PICs with C/C++.
+![[summaries/web]]
+![[summaries/linux]]
+![[summaries/electronic]]
 
 ## Experience
 

@@ -4,9 +4,9 @@
 
 > **Full Stack Developer, Software Engineer, Embedded Developer**
 
-- **13+ years doing *Electronic projects***, using Raspberry Pi, Arduino or PICs with C/C++ or Python.
-- **9+ years using *Linux***, 7+ years managing home servers and 3+ years with production servers.
-- **4+ in *Web Development***, using mostly Svelte, ReactJs, NodeJs / Express, PostgreSQL.
+![[summaries/electronic]]
+![[summaries/linux]]
+![[summaries/web]]
 
 ## Projects
 
