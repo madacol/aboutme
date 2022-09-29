@@ -85,10 +85,6 @@
 
 ![[languages]]
 
-## More information
-
-**LinkedIn**: <https://www.linkedin.com/in/madacol/>
-
 ## Other Profiles
 
 **GitHub**: <https://github.com/madacol>\
