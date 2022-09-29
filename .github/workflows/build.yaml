@@ -1,0 +1,21 @@
+name: Build
+
+on: push
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Install pandoc
+        run: |
+          sudo apt-get update
+          sudo apt-get install pandoc wkhtmltopdf
+      - name: Build
+        run: ./build.sh profiles/*.md
+      - name: Release
+        uses: softprops/action-gh-release@v1
+        # if: startsWith(github.ref, 'refs/tags/')
+        with:
+          files: profiles/*.pdf

@@ -1,17 +1,26 @@
 #!/usr/bin/env bash
 
-# exit if file does not have '*.md' extension
-if [[ "$1" != *.md ]]; then
-    echo "Error: file must have '*.md' extension."
-    exit 1
-fi
+for inputFile in "$@"
+do
 
-# replace '.md' with '.pdf'
-filename=${1%.*}.pdf
+  echo "Parsing \"$inputFile\""
 
-pandoc <(./parseImport.sh "$1") -o "$filename" --pdf-engine wkhtmltopdf \
-  --css styles.css \
-  -V margin-top=11mm \
-  -V margin-bottom=11mm \
-  -V margin-left=11mm \
-  -V margin-right=11mm
+  # exit if file does not have '*.md' extension
+  if [[ "$inputFile" != *.md ]]; then
+      echo "Error: file must have '*.md' extension."
+      exit 1
+  fi
+
+  # replace '.md' with '.pdf'
+  outputFile=${inputFile%.*}.pdf
+
+  echo "Generating \"$outputFile\""
+
+  pandoc <(./parseImport.sh "$inputFile") -o "$outputFile" --pdf-engine wkhtmltopdf \
+    --css styles.css \
+    -V margin-top=11mm \
+    -V margin-bottom=11mm \
+    -V margin-left=11mm \
+    -V margin-right=11mm
+
+done
