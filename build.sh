@@ -7,9 +7,9 @@ if [[ "$1" != *.md ]]; then
 fi
 
 # replace '.md' with '.pdf'
-output=${1%.*}.pdf
+filename=${1%.*}.pdf
 
-pandoc <(./parseImport.sh "$1") -o "$output" --pdf-engine wkhtmltopdf \
+pandoc <(./parseImport.sh "$1") -o "$filename" --pdf-engine wkhtmltopdf \
   --css styles.css \
   -V margin-top=11mm \
   -V margin-bottom=11mm \
