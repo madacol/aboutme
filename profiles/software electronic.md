@@ -20,9 +20,9 @@
 
 ![[projects/chess clock]]
 
-![[projects/webpipe.header]]
+![[projects/webpipe.short]]
 
-![[projects/bolivarparalelo.header]]
+![[projects/bolivarparalelo.short]]
 
 <!-- ![[projects/bitcoin miners monitoring scripts]] -->
 

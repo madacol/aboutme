@@ -1,4 +1,4 @@
-![[projects/CNC router.header]]
+### CNC router — 2009 - 2012 — [Video](https://www.youtube.com/watch?v=joTXaflXwJw)
 
   A CNC router that cuts metal sheets up to 3 inches thick as drawn in a CAD file.
 
