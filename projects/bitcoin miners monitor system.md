@@ -5,6 +5,6 @@
   **Tech Stack:** Python, Bash, Raspberry Pi, Google Form, Google Sheets, exim4 (Linux mailer)
 
 - Used cron jobs to run scripts periodically.
-- Gathered data through Miner's HTTP API using custom headers.
+- Gathered data through cgminer's HTTP API.
 - Uploaded data to Google Sheets through Google Forms.
 - Notified by email any error encountered.
