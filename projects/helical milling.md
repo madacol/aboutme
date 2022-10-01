@@ -4,6 +4,6 @@
 
   **Tech Stack:** C / PIC16F877
 
-- Designed, built and developed the electronic system.
+<!-- - Designed, built and developed the electronic system. -->
 - Used optical sensors to build an encoder that reads the trayectory in the X axis, and according to a previous configured number **`AnglesToRotate / StepsInX`** it rotates the piece to follow the desired helical angle\
   The Microcontroller receives the encoder's signal and proportionally rotates the piece through a stepper motor attached to the chuck.
