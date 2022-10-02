@@ -26,7 +26,7 @@
 
 <!-- ![[projects/bitcoin miners monitoring scripts]] -->
 
-## Experience
+## Work Experience
 
 ![[experience/escobedo medina]]
 

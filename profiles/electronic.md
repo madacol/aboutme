@@ -20,7 +20,7 @@
 
 ![[education]]
 
-## Experience
+## Work Experience
 
 ![[experience/escobedo medina]]
 

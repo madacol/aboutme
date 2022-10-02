@@ -8,7 +8,7 @@
 ![[summaries/linux]]
 ![[summaries/electronic]]
 
-## Experience
+## Work Experience
 
 ![[experience/escobedo medina]]
 
