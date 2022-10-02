@@ -18,6 +18,7 @@ do
 
   pandoc <(./parseImport.sh "$inputFile") -o "$outputFile" --pdf-engine wkhtmltopdf \
     --css styles.css \
+    --metadata pagetitle="Marco D'Agostini"\
     -V margin-top=11mm \
     -V margin-bottom=11mm \
     -V margin-left=11mm \

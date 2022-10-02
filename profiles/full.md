@@ -28,7 +28,7 @@
 
 ![[projects/chess clock]]
 
-![[projects/bitcoin miners monitor system]]
+![[projects/bitcoin miners monitoring scripts]]
 
 ## Skills
 

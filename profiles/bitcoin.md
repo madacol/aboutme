@@ -20,7 +20,7 @@
 
 ![[projects/arduinooven]]
 
-![[projects/bitcoin miners monitor system]]
+![[projects/bitcoin miners monitoring scripts]]
 
 ![[projects/webpipe.header]]
 

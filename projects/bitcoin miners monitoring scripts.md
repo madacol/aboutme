@@ -1,4 +1,4 @@
-### Bitcoin miners monitoring system — May 2015 - September 2016 — [Source](https://github.com/madacol/bitcoin-miners-monitor)
+### Bitcoin miners monitoring scripts — May 2015 - September 2016 — [Source](https://github.com/madacol/bitcoin-miners-monitor)
 
   Python scripts that ran in a Raspberry Pi to monitor bitcoin miners through LAN
 

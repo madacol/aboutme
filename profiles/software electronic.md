@@ -24,7 +24,7 @@
 
 ![[projects/bolivarparalelo.header]]
 
-![[projects/bitcoin miners monitor system]]
+<!-- ![[projects/bitcoin miners monitoring scripts]] -->
 
 ## Experience
 
