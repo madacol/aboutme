@@ -9,16 +9,20 @@ h1,h2,h3 {
 h1 {
   padding-top: 0;
   margin-top: 0;
-  border-bottom: 1px solid black;
 }
-h2 {
-  padding-top: 15px;
-  border-top: 1px solid black;
+h1, h2 {
+  background-color: rgb(190, 190, 190);
+  padding: 0.1em;
+  border-radius: 0.5em;
+  text-align: center;
 }
-blockquote, code {
-  padding: 0 1em;
+blockquote {
   margin: 0;
   color: black !important;
+}
+blockquote > *{
+  padding: 0.3em 0.7em;
   background-color: rgb(235, 235, 235);
+  border-radius: 0.5em;
 }
 .columnList ul{ margin: 0; }
