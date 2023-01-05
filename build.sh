@@ -17,6 +17,7 @@ do
   echo "Generating \"$outputFile\""
 
   pandoc <(./parseImport.sh "$inputFile") -o "$outputFile" --pdf-engine wkhtmltopdf \
+    --pdf-engine-opt=--enable-local-file-access \
     --css styles.css \
     --metadata pagetitle="Marco D'Agostini"\
     -V margin-top=11mm \
