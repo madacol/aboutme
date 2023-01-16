@@ -1,4 +1,4 @@
-### Escobedo Medina Auditores Asociados, Perú  —  February 2019 - June 2020
+### Escobedo Medina Auditores Asociados  —  February 2019 - June 2020
 
   Accounting business that offers software for electronic invoicing.
 
