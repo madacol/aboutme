@@ -1,4 +1,13 @@
 {
     "editor.tabSize": 2,
     "memo.links.format": "long",
+    "emeraldwalk.runonsave": {
+        "commands": [
+            {
+                "match": ".*/profiles/.*\\.md",
+                "isAsync": true,
+                "cmd": "./build.sh '${file}'"
+            }
+        ]
+    },
 }
