@@ -1,14 +1,15 @@
-### Taller Industrial Onorio —  March 2013 - June 2022
+### Taller Industrial Onorio — March 2009 - June 2018
 
-  General service provider specialized in the Metalworking Area (lathe, milling, drilling, welding, etc)
+  Service provider specialized in the Metalworking Area (lathe, milling, drilling, welding, etc)
 
   > **Software Developer and System Administrator**
 
-  **Tech Stack:** Linux, Windows, Mikrotik and Ubiquity.
+  **Tech Stack:** Linux, Windows, Mikrotik, Ubiquiti.
 
-- Develop a web-based administration software, accessible from the internet.
-- Use Ubiquiiy LiteBeam antennas to interconnect networks separated by kilometers apart
-- Diagnose, repair and maintain all hardwares and softwares in the system.
-- Configure and maintain local networks, with public facing services.
-<!-- - Manage security of the system.
-- Provide orientation and guidance to users on how to operate software and computer equipment. -->
+- Made a couple of projects:
+  - A web-based management software adapted to a remotely distributed team. — [More details](https://github.com/madacol/aboutme/blob/master/projects/taionca%20web.md)
+  - An electronic system to produce helical gears on an horizontal milling machine — [More details](https://github.com/madacol/aboutme/blob/master/projects/helical%20milling.md)
+  - Implemented a CNC system to a router built in-house — [More details](https://github.com/madacol/aboutme/blob/master/projects/CNC%20router.md)
+- Configured and maintained local networks, with public facing services
+- Connected networks separated by kilometers apart using Ubiquiti LiteBeam antennas
+- Diagnosed, repaired and maintained all hardwares and softwares in the company
