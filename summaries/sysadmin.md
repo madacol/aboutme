@@ -1,0 +1,1 @@
+- **10+ years as a *SysAdmin***; using Linux or Windows and netwoking with Mikrotik and Ubiquity devices.
