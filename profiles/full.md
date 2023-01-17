@@ -12,6 +12,9 @@
 
 ![[experience/escobedo medina]]
 
+![[experience/taionca]]
+
+
 ## Projects
 
 ![[projects/webpipe]]
