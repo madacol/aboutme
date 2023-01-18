@@ -5,5 +5,5 @@
 
 - Implemented a CNC system to a custom built router machine.
 - Operated the machine for production use:
-  - Draw pieces to be cut in a CAD file
-  - Modify the G-Code generated from CAD file
+  - Drawed in a CAD file the pieces that will be cut
+  - Modified G-Code generated from CAD file to adapt it to the raw material
