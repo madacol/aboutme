@@ -1,10 +1,12 @@
-### Taller Industrial Onorio — March 2009 - June 2018
+### Taller Industrial Onorio — March 2009 - June 2017
 
   Service provider specialized in the Metalworking Area (lathe, milling, drilling, welding, etc)
 
   > **Software Developer and System Administrator**
 
-  **Tech Stack:** Svelte, NodeJs, PostgreSQL, GCP, Docker, Linux, C / PIC16F877, Mikrotik.
+  **Web Stack:** Svelte, NodeJs, PostgreSQL, Docker, Google Cloud Platform\
+  **Electronic Stack:** C / PIC16F877, L297\
+  **SysAdmin Stack:** Mikrotik, Ubiquiti, Linux, Raspberry Pi, Windows.
 
 - Made these projects:
   - A web-based management software adapted to a remotely distributed team. — [More details](https://github.com/madacol/aboutme/blob/master/projects/taionca%20web.md)
