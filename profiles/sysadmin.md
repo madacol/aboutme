@@ -12,6 +12,7 @@
 ## Work Experience
 
 ![[experience/escobedo medina]]
+
 ![[experience/taionca]]
 
 ## Skills

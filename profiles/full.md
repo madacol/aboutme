@@ -14,7 +14,6 @@
 
 ![[experience/taionca]]
 
-
 ## Projects
 
 ![[projects/webpipe]]
