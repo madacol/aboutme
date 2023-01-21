@@ -12,6 +12,8 @@
 
 ![[experience/escobedo medina]]
 
+![[experience/taionca]]
+
 ## Projects
 
 ![[projects/webpipe]]
@@ -22,40 +24,36 @@
 
 ![[projects/arduinooven]]
 
-![[projects/helical milling.short]]
-
-![[projects/CNC router.short]]
-
 ## Skills
 
 <div class="columnList" style="display: flex; justify-content: space-around">
 <div style="display: flex; flex-direction: column">
 
 - [Svelte](https://github.com/madacol/bolivarparalelo)
+- ReactJs
 - NodeJs
 - PostgreSQL
+
+</div>
+<div style="display: flex; flex-direction: column">
+
 - [Mysql](https://stackoverflow.com/search?q=user:3163120+[mysql])
-
-</div>
-<div style="display: flex; flex-direction: column">
-
-- ReactJs
 - Python
-- [Arduino](https://github.com/madacol/ArduinoOven)
-- Raspberry Pi
-
-</div>
-<div style="display: flex; flex-direction: column">
-
 - [Markdown / Writing](https://github.com/madacol/knowledge)
 - [Linux](https://stackoverflow.com/search?q=user:3163120+[linux])
+
+</div>
+<div style="display: flex; flex-direction: column">
+
 - Docker
+- [Arduino](https://github.com/madacol/ArduinoOven)
+- Raspberry Pi
 - [Javascript](https://stackoverflow.com/search?q=user:3163120+[javascript])
 
 </div>
 </div>
 <!-- 
-## Skills
+## Soft Skills
 
 <div class="columnList" style="display: flex; justify-content: space-around">
 <div style="display: flex; flex-direction: column">

@@ -10,6 +10,12 @@
 
 ![[education]]
 
+## Work Experience
+
+![[experience/escobedo medina]]
+
+![[experience/taionca]]
+
 ## Projects
 
 ![[projects/CNC router]]
@@ -19,10 +25,6 @@
 ![[projects/arduinooven]]
 
 ![[projects/chess clock.short]]
-
-## Work Experience
-
-![[experience/escobedo medina]]
 
 ## Skills
 

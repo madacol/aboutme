@@ -24,6 +24,8 @@
 
 ![[experience/escobedo medina]]
 
+![[experience/taionca]]
+
 ## Skills
 
 <div class="columnList" style="display: flex; justify-content: space-around">

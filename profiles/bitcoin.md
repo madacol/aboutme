@@ -12,6 +12,8 @@
 
 ![[experience/escobedo medina]]
 
+![[experience/taionca]]
+
 ## Projects
 
 ![[projects/taionca web]]

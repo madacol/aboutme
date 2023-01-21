@@ -8,6 +8,12 @@
 ![[summaries/linux]]
 ![[summaries/web]]
 
+## Work Experience
+
+![[experience/escobedo medina]]
+
+![[experience/taionca]]
+
 ## Projects
 
 ![[projects/taionca web]]
@@ -25,10 +31,6 @@
 ![[projects/bolivarparalelo.short]]
 
 <!-- ![[projects/bitcoin miners monitoring scripts]] -->
-
-## Work Experience
-
-![[experience/escobedo medina]]
 
 ## Skills
 
