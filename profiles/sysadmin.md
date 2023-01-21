@@ -2,7 +2,7 @@
 
 ## Summary
 
-> **IT, Embedded and Software Developer**
+> **System Administrator, Embedded and Software Developer**
 
 ![[summaries/sysadmin]]
 ![[summaries/web]]
