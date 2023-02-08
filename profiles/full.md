@@ -2,10 +2,10 @@
 
 ## Summary
 
-> **Full Stack Developer, Software Engineer, Embedded Developer**
+> **Web, Embedded and Software Developer**
 
 ![[summaries/web]]
-![[summaries/linux]]
+![[summaries/sysadmin]]
 ![[summaries/electronic]]
 
 ## Work Experience

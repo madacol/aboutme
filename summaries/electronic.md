@@ -1,1 +1,1 @@
-- **13+ years doing *Electronic projects***; using Arduino, PICs and Raspberry Pi with C / C++ and Python.
+- **8+ years doing *Embedded projects***; using Arduino, PICs and Raspberry Pi with C / C++ and Python.

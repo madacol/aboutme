@@ -2,11 +2,11 @@
 
 ## Summary
 
-> **System Administrator, Embedded and Software Developer**
+> **IT, Web and Embedded Developer**
 
 ![[summaries/sysadmin]]
-![[summaries/web]]
 ![[summaries/linux]]
+![[summaries/web]]
 ![[summaries/electronic]]
 
 ## Work Experience

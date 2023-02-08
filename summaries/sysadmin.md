@@ -1,1 +1,1 @@
-- **10+ years as *SysAdmin***; managing servers and clients with Linux, Windows, Mikrotik and Ubiquiti.
+- **8+ years as *IT***; managing Linux and Windows, and networking with Mikrotik and Ubiquiti.

@@ -1,1 +1,1 @@
-- **5+ years in *Web Development***; using mostly Svelte, ReactJs, NodeJs / Express, PostgreSQL.
+- **5+ years in *Web Development***; using Svelte, ReactJs, NodeJs / Express, PostgreSQL.
