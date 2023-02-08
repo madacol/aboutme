@@ -28,9 +28,9 @@
 
 ![[projects/CNC router]]
 
-![[projects/chess clock]]
-
 ![[projects/bitcoin miners monitoring scripts]]
+
+![[projects/chess clock]]
 
 ## Skills
 

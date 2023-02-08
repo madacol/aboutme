@@ -20,7 +20,6 @@
 
 ![[projects/bolivarparalelo]]
 
-![[projects/arduinooven]]
 
 ![[projects/bitcoin miners monitoring scripts]]
 
