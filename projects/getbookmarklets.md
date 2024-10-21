@@ -2,5 +2,5 @@
 
 A website for sharing bookmarklets and userscripts.
 
-**Tech Stack:** Sveltekit, PostgreSQL, Playwright
+**Tech Stack:** Sveltekit, PostgreSQL, Playwright\
 **Hosted in:** Vercel, Google Cloud Platform
