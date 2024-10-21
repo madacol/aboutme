@@ -1,4 +1,4 @@
-### Bolivar Paralelo — March 2018 - Current — [Web page](https://bolivarparalelo.com) — [Source](https://github.com/madacol/bolivarparalelo)
+### Bolivar Paralelo — March 2018 - Current — [Website](https://bolivarparalelo.com) — [Source](https://github.com/madacol/bolivarparalelo)
 
   An open-source web that analyzes <https://www.localbitcoins.com> offers and get currencies' rates to calculate cross rates and render history graphs. *Very useful in countries with foreign exchange controls like Argentina*
 

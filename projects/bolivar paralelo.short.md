@@ -1,1 +1,1 @@
-### Bolivar Paralelo — March 2018 - Current — [Web page](https://bolivarparalelo.com) — [Source](https://github.com/madacol/bolivarparalelo)
+### Bolivar Paralelo — March 2018 - Current — [Website](https://bolivarparalelo.com) — [Source](https://github.com/madacol/bolivarparalelo)

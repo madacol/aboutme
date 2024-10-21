@@ -16,6 +16,8 @@
 
 ## Projects
 
+![](/projects/getbookmarklets.md)
+
 ![](/projects/webpipe.md)
 
 ![](/projects/taionca%20web.md)
