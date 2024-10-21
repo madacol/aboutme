@@ -2,7 +2,7 @@
 
   Accounting business that offers software for digital invoicing in compliance with Peru's financial regulations.
 
-  > **Software Developer: Frontend, Backend, Database**
+  > **Full Stack Web Developer**
 
   **Tech Stack:** React, NodeJs / Express, Mysql, Docker, VB<span>.</span>NET and php
 
@@ -14,4 +14,3 @@
 - Implemented and helped design the new *web-based system's* architecture and later dockerized it.
 - Mentored other team members.
 - Built an authentication system with role-based permissions.
-- Developed several tests for a critical function that calculates the taxes and totals of an order
