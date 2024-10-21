@@ -2,7 +2,7 @@
 
   Accounting business that offers software for digital invoicing in compliance with Peru's financial regulations.
 
-  > **Full Stack Web Developer**
+  > **Full Stack Developer**
 
   **Tech Stack:** React, NodeJs / Express, Mysql, Docker, VB<span>.</span>NET and php
 
