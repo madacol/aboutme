@@ -18,6 +18,8 @@
 
 ![](/projects/getbookmarklets.md)
 
+![](/projects/friendpals.md)
+
 ![](/projects/webpipe.md)
 
 ![](/projects/taionca%20web.md)
