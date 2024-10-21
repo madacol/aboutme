@@ -1,36 +1,36 @@
-![[header]]
+![](/header.md)
 
 ## Summary
 
 > **Full Stack Developer, Software Engineer, Embedded Developer**
 
-![[summaries/electronic]]
-![[summaries/linux]]
-![[summaries/web]]
+![](/summaries/electronic.md)
+![](/summaries/linux.md)
+![](/summaries/web.md)
 
 ## Work Experience
 
-![[experience/escobedo medina]]
+![](/experience/escobedo%20medina.md)
 
-![[experience/taionca]]
+![](/experience/taionca.md)
 
 ## Projects
 
-![[projects/taionca web]]
+![](/projects/taionca%20web.md)
 
-![[projects/arduinooven]]
+![](/projects/arduinooven.md)
 
-![[projects/helical milling]]
+![](/projects/helical%20milling.md)
 
-![[projects/CNC router]]
+![](/projects/CNC%20router.md)
 
-![[projects/chess clock]]
+![](/projects/chess%20clock.md)
 
-![[projects/webpipe.short]]
+![](/projects/webpipe.short.md)
 
-![[projects/bolivarparalelo.short]]
+![](/bolivar%20paralelo.short.md)
 
-<!-- ![[projects/bitcoin miners monitoring scripts]] -->
+<!-- ![](/projects/bitcoin%20miners monitoring scripts.md) -->
 
 ## Skills
 
@@ -61,9 +61,9 @@
 </div>
 </div>
 
-![[education]]
+![](/education.md)
 
-![[languages]]
+![](/languages.md)
 
 ## Other Profiles
 

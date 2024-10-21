@@ -1,6 +1,5 @@
 {
     "editor.tabSize": 2,
-    "memo.links.format": "long",
     "emeraldwalk.runonsave": {
         "commands": [
             {

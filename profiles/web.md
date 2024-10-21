@@ -1,28 +1,28 @@
-![[header]]
+![](/header.md)
 
 ## Summary
 
 > **Web, Embedded and Software Developer**
 
-![[summaries/web]]
-![[summaries/linux]]
-![[summaries/electronic]]
+![](/summaries/web.md)
+![](/summaries/linux.md)
+![](/summaries/electronic.md)
 
 ## Work Experience
 
-![[experience/escobedo medina]]
+![](/experience/escobedo%20medina.md)
 
-![[experience/taionca]]
+![](/experience/taionca.md)
 
 ## Projects
 
-![[projects/webpipe]]
+![](/projects/webpipe.md)
 
-![[projects/taionca web]]
+![](/projects/taionca%20web.md)
 
-![[projects/bolivarparalelo]]
+![](/projects/bolivar%20paralelo.md)
 
-![[projects/arduinooven]]
+![](/projects/arduinooven.md)
 
 ## Skills
 
@@ -79,9 +79,9 @@
 </div>
 </div> -->
 
-![[education]]
+![](/education.md)
 
-![[languages]]
+![](/languages.md)
 
 ## Other Profiles
 

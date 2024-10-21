@@ -1,36 +1,39 @@
-![[header]]
+![](/header.md)
 
 ## Summary
 
 > **Web, Embedded and Software Developer**
 
-![[summaries/web]]
-![[summaries/sysadmin]]
-![[summaries/electronic]]
+![](/summaries/web.md)
+![](/summaries/sysadmin.md)
+![](/summaries/electronic.md)
 
 ## Work Experience
 
-![[experience/escobedo medina]]
+![](/experience/escobedo%20medina.md)
 
-![[experience/taionca]]
+![](/experience/taionca.md)
 
 ## Projects
 
-![[projects/webpipe]]
+![](/projects/webpipe.md)
 
-![[projects/taionca web]]
+![](/projects/taionca%20web.md)
 
-![[projects/bolivarparalelo]]
+![](/bolivar%20paralelo.md)
 
-![[projects/arduinooven]]
+![](/projects/arduinooven.md)
 
-![[projects/helical milling]]
+![](/projects/helical%20milling.md)
 
-![[projects/CNC router]]
+<br>
+<br>
 
-![[projects/bitcoin miners monitoring scripts]]
+![](/projects/CNC%20router.md)
 
-![[projects/chess clock]]
+![](/projects/bitcoin%20miners monitoring scripts.md)
+
+![](/projects/chess%20clock.md)
 
 ## Skills
 
@@ -61,9 +64,9 @@
 </div>
 </div>
 
-![[education]]
+![](/education.md)
 
-![[languages]]
+![](/languages.md)
 
 ## Other Profiles
 

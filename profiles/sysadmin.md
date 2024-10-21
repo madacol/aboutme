@@ -1,19 +1,19 @@
-![[header]]
+![](/header.md)
 
 ## Summary
 
 > **IT, Web and Embedded Developer**
 
-![[summaries/sysadmin]]
-![[summaries/linux]]
-![[summaries/web]]
-![[summaries/electronic]]
+![](/summaries/sysadmin.md)
+![](/summaries/linux.md)
+![](/summaries/web.md)
+![](/summaries/electronic.md)
 
 ## Work Experience
 
-![[experience/escobedo medina]]
+![](/experience/escobedo%20medina.md)
 
-![[experience/taionca]]
+![](/experience/taionca.md)
 
 ## Skills
 
@@ -74,23 +74,23 @@
 
 ## Projects
 
-![[projects/webpipe]]
+![](/projects/webpipe.md)
 
-![[projects/taionca web]]
+![](/projects/taionca%20web.md)
 
-![[projects/bolivarparalelo]]
+![](/bolivar%20paralelo.md)
 
-![[projects/arduinooven]]
+![](/projects/arduinooven.md)
 
-![[projects/helical milling]]
+![](/projects/helical%20milling.md)
 
-![[projects/CNC router]]
+![](/projects/CNC%20router.md)
 
 
 
-![[education]]
+![](/education.md)
 
-![[languages]]
+![](/languages.md)
 
 ## Other Profiles
 

@@ -1,30 +1,30 @@
-![[header]]
+![](/header.md)
 
 ## Summary
 
 > **Full Stack Developer, Software Engineer, Embedded Engineer**
 
-![[summaries/electronic]]
-![[summaries/linux]]
-![[summaries/web]]
+![](/summaries/electronic.md)
+![](/summaries/linux.md)
+![](/summaries/web.md)
 
 ## Projects
 
-![[projects/arduinooven]]
+![](/projects/arduinooven.md)
 
-![[projects/helical milling]]
+![](/projects/helical%20milling.md)
 
-![[projects/CNC router]]
+![](/projects/CNC%20router.md)
 
-![[projects/chess clock.short]]
+![](/projects/chess%20clock.short.md)
 
-![[education]]
+![](/education.md)
 
 ## Work Experience
 
-![[experience/escobedo medina]]
+![](/experience/escobedo%20medina.md)
 
-![[experience/taionca]]
+![](/experience/taionca.md)
 
 ## Skills
 
@@ -57,13 +57,13 @@
 
 ## Web projects
 
-![[projects/webpipe.short]]
+![](/projects/webpipe.short.md)
 
-![[projects/taionca web.short]]
+![](/projects/taionca%20web.short.md)
 
-![[projects/bolivarparalelo.short]]
+![](/bolivar%20paralelo.short.md)
 
-![[languages]]
+![](/languages.md)
 
 ## Other Profiles
 
