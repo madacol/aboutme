@@ -86,15 +86,8 @@
 
 ![](/projects/CNC%20router.md)
 
-
-
 ![](/education.md)
 
 ![](/languages.md)
 
-## Other Profiles
-
-**GitHub**: <https://github.com/madacol>\
-**Twitter**: <https://twitter.com/madacol>\
-**StackOverflow**: <https://stackoverflow.com/users/3163120/madacol>\
-**Youtube**: <https://www.youtube.com/user/madacol/videos>
+![](/other_profiles.md)
