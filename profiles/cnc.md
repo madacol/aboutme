@@ -41,7 +41,7 @@
 
 - Python
 - [Linux](https://stackoverflow.com/search?q=user:3163120+[linux])
-- [Markdown / Writing](https://github.com/madacol/knowledge)
+- [Markdown / Writing](https://madacol.com/blog)
 - Raspberry Pi
 
 </div>

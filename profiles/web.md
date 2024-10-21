@@ -41,7 +41,7 @@
 
 - [Mysql](https://stackoverflow.com/search?q=user:3163120+[mysql])
 - Python
-- [Markdown / Writing](https://github.com/madacol/knowledge)
+- [Markdown / Writing](https://madacol.com/blog)
 - [Linux](https://stackoverflow.com/search?q=user:3163120+[linux])
 
 </div>

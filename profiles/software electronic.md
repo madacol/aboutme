@@ -53,7 +53,7 @@
 </div>
 <div style="display: flex; flex-direction: column">
 
-- [Markdown / Writing](https://github.com/madacol/knowledge)
+- [Markdown / Writing](https://madacol.com/blog)
 - [Linux](https://stackoverflow.com/search?q=user:3163120+[linux])
 - Docker
 - [Javascript](https://stackoverflow.com/search?q=user:3163120+[javascript])
