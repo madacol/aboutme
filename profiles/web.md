@@ -15,6 +15,8 @@
 
 ## Projects
 
+![](/projects/baby%20jarvis.md)
+
 ![](/projects/getbookmarklets.md)
 
 ![](/projects/friendpals.md)
