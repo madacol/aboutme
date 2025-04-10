@@ -3,7 +3,7 @@
   A custom management software adapted to a remotely distributed team.
 
   **Tech Stack:** Svelte / Sapper, NodeJs, PostgreSQL, Docker\
-  **Hosted in:** Google Cloud Platform, Fly.io
+  **Hosted on:** Google Cloud Platform, Fly.io
 
 - Built an authentication system with role-based permissions
 - Inventory management
