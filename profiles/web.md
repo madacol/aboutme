@@ -6,7 +6,6 @@
 
 ![](/summaries/web.md)
 ![](/summaries/linux.md)
-![](/summaries/electronic.md)
 
 ## Work Experience
 
