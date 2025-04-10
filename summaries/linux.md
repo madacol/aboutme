@@ -1,1 +1,1 @@
-- **9+ years using *Linux***; 7+ years with home servers and 2+ years with production servers.
+- **12+ years using *Linux***; 10+ years with home servers and 2+ years with production servers.
