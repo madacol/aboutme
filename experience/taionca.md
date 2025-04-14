@@ -2,7 +2,7 @@
 
   Service provider specialized in the Metalworking Area (lathe, milling, drilling, welding, etc)
 
-  > **IT, Software, Hardware Developer, Consultant**
+  > **IT, Software and Embedded Developer, Consultant**
 
   **Web Stack:** Svelte, NodeJs, PostgreSQL, Docker, Google Cloud Platform\
   **Embedded Stack:** C / PIC16F877, L297\
