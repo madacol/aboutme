@@ -1,1 +1,1 @@
-- **10+ years in *Web Development***; mostly using HTML/CSS/JS or Svelte, NodeJs, and PostgreSQL.
+- **10+ years in *Web Development***; mostly using vanilla HTML/CSS/JS, Svelte, NodeJs, and PostgreSQL.
