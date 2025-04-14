@@ -1,8 +1,8 @@
-### Taller Industrial Onorio — March 2009 - June 2017
+### Taller Industrial Onorio — March 2009 - Current
 
   Service provider specialized in the Metalworking Area (lathe, milling, drilling, welding, etc)
 
-  > **IT and Software Developer**
+  > **IT, Software, Hardware Developer, Consultant**
 
   **Web Stack:** Svelte, NodeJs, PostgreSQL, Docker, Google Cloud Platform\
   **Embedded Stack:** C / PIC16F877, L297\
