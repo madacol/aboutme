@@ -5,8 +5,8 @@
 > **Full Stack Developer, Software Engineer, Embedded Developer**
 
 ![](/summaries/electronic.md)
-![](/summaries/linux.md)
 ![](/summaries/web.md)
+![](/summaries/linux.md)
 
 ## Work Experience
 
@@ -16,21 +16,24 @@
 
 ## Projects
 
+![](/projects/baby%20jarvis.md)
+
 ![](/projects/taionca%20web.md)
 
 ![](/projects/arduinooven.md)
+
+![](/projects/bitcoin%20miners%20monitoring%20scripts.md)
 
 ![](/projects/helical%20milling.md)
 
 ![](/projects/CNC%20router.md)
 
+
 ![](/projects/chess%20clock.md)
 
+![](/projects/getbookmarklets.short.md)
+
 ![](/projects/webpipe.short.md)
-
-![](/bolivar%20paralelo.short.md)
-
-<!-- ![](/projects/bitcoin%20miners monitoring scripts.md) -->
 
 ## Skills
 

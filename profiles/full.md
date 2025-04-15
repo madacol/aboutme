@@ -6,6 +6,7 @@
 
 ![](/summaries/web.md)
 ![](/summaries/sysadmin.md)
+![](/summaries/linux.md)
 ![](/summaries/electronic.md)
 
 ## Work Experience
@@ -16,22 +17,25 @@
 
 ## Projects
 
+![](/projects/baby%20jarvis.md)
+
+![](/projects/getbookmarklets.md)
+
+![](/projects/friendpals.md)
+
 ![](/projects/webpipe.md)
 
 ![](/projects/taionca%20web.md)
 
-![](/bolivar%20paralelo.md)
+![](/projects/bolivar%20paralelo.md)
 
 ![](/projects/arduinooven.md)
 
 ![](/projects/helical%20milling.md)
 
-<br>
-<br>
-
 ![](/projects/CNC%20router.md)
 
-![](/projects/bitcoin%20miners monitoring scripts.md)
+![](/projects/bitcoin%20miners%20monitoring%20scripts.md)
 
 ![](/projects/chess%20clock.md)
 
