@@ -2,7 +2,7 @@
 
 ## Summary
 
-> **Web, Embedded and Software Developer**
+> **Web and Software Developer**
 
 ![](/summaries/web.md)
 ![](/summaries/linux.md)
