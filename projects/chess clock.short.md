@@ -1,1 +1,1 @@
-### Chess clock — 2010 — [Source](https://github.com/madacol/reloj-ajedrez)
+### Chess clock — 2004 - 2010 — [Source](https://github.com/madacol/reloj-ajedrez)

@@ -1,4 +1,4 @@
-### CNC router — 2009 - 2012 — [Video](https://www.youtube.com/watch?v=aiiE8h8b_Uk)
+![](/projects/CNC%20router.short.md)
 
   A CNC router that cuts metal sheets up to 3 inches thick as drawn in a CAD file\
   Used the software MACH3 to control the CNC with stepper motors attached to each axis
