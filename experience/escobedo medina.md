@@ -13,4 +13,4 @@
 - Automated the upgrading system of the .NET client to avoid manual upgrades by the support team.
 - Implemented and helped design the new *web-based system's* architecture and later dockerized it.
 - Mentored other team members.
-- Built an authentication system with role-based permissions.
+<!-- - Built an authentication system with role-based permissions. -->
