@@ -1,6 +1,6 @@
-### Escobedo Medina Auditores Asociados  —  February 2019 - June 2020
+### Peruvian Accounting Business  —  February 2019 - June 2020
 
-  Accounting business that offers software for digital invoicing in compliance with Peru's financial regulations.
+  Offer its clients a software for digital invoicing in compliance with Peru's financial regulations.
 
   > **Full Stack Developer**
 

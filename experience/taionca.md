@@ -4,9 +4,7 @@
 
   > **IT, Software and Embedded Developer, Consultant**
 
-  **Web Stack:** Svelte, NodeJs, PostgreSQL, Docker, Google Cloud Platform\
-  **Embedded Stack:** C / PIC16F877, L297\
-  **IT Stack:** Mikrotik, Ubiquiti, Linux, Raspberry Pi, Windows.
+  **Tech Stack:** Svelte, NodeJs, PostgreSQL, Docker, Google Cloud Platform, C / PIC16F877, Mikrotik, Ubiquiti, Linux, Raspberry Pi.
 
 - Projects made:
   - A web-based administration software adapted for remote management. — [More details](https://github.com/madacol/aboutme/blob/master/projects/taionca%20web.md)
