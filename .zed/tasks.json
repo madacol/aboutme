@@ -1,0 +1,10 @@
+[
+  {
+    "label": "export to PDF",
+    "command": "./build.sh",
+    "args": ["$ZED_FILE"],
+    "cwd": "$ZED_WORKTREE_ROOT",
+    "use_new_terminal": false,
+    "allow_concurrent_runs": false
+  }
+]
