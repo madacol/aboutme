@@ -16,6 +16,8 @@
 
 ## Projects
 
+![](/projects/LLM%20assistant.md)
+
 ![](/projects/baby%20jarvis.md)
 
 ![](/projects/taionca%20web.md)

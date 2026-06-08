@@ -17,6 +17,8 @@
 
 ## Projects
 
+![](/projects/LLM%20assistant.md)
+
 ![](/projects/baby%20jarvis.md)
 
 ![](/projects/getbookmarklets.md)
